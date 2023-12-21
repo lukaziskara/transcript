@@ -82,8 +82,10 @@ export default function Dictionary(props) {
               <div className={secondPartState}>{cardData.theWord}</div>
             </div>
           ))}
+          <div className="position-fixed-left hidden">სიტყვა</div>
         </div>
         <div className="b_words flex_wrap">
+          <div className="position-fixed-right hidden">word</div>
           {shuffledDataForRight.map((cardData, index) => (
             <div
               className={

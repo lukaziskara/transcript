@@ -1,6 +1,7 @@
 import { useMemo, useRef, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import "./Video.scss";
+// import YoutubeTranscript from "youtube-transcript";
 
 import lexicon from "../../scriptsData/lexicon.json";
 import transcripts from "../../scriptsData/videoTranscripts.json";
@@ -16,7 +17,6 @@ export default function Video(props) {
   const [searchWord, setSearchWord] = useState();
 
   const { id } = useParams();
-
   const inputRef = useRef();
   const videoData = transcripts.find((el) => el.id == id);
   const { title, lines } = videoData;
@@ -28,7 +28,9 @@ export default function Video(props) {
   );
 
   console.log(searchedWords);
-  const videoUrl = "https://youtu.be/aqz-KE-bpKQ";
+  const videoUrl = videoData.videoUrl;
+  console.log(videoData, videoUrl);
+  // YoutubeTranscript.fetchTranscript(videoData).then(console.log);
   const wordsToChoose = useMemo(() => {
     const choicedLines = lines.filter(
       (line) => startTime < line.time && line.time < endTime
@@ -126,12 +128,22 @@ export default function Video(props) {
         <iframe
           width="891"
           height="501"
-          src="https://www.youtube.com/embed/zOBzNmM9ylw"
+          src={videoUrl}
+          // src="https://www.youtube.com/embed/zOBzNmM9ylw"
           title='#12 Walter Block   -  Author of "Defending The Undefendable", Loyola University Professor'
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen
         ></iframe>
+        {/* <iframe
+          width="891"
+          height="501"
+          src="https://www.youtube.com/embed/hgFX-ZsOscc?list=PLz3M1Oxfso8hMIGitwqb64bIXmMgGM_MN"
+          title="Your Dark Side and Control Over Your Life | Robert Greene | EP 237"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+        ></iframe> */}
         {/* <source src={videoUrl} type="video/mp4" /> */}
         {/* </video> */}
       </div>

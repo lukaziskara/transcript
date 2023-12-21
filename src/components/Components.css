@@ -204,14 +204,14 @@ button {
   animation-duration: 4s;
 }
 
-@keyframes example {
+/* @keyframes example {
   from {
     background-color: green;
   }
   to {
     background-color: red;
   }
-}
+} */
 .left_card {
   background-color: rgb(150, 121, 47);
   /* height: fit-content; */
@@ -244,7 +244,27 @@ button {
 .expl {
   background-color: rgb(38, 71, 71);
 }
-
+.hidden {
+  display: none;
+}
+.position-fixed-left {
+  background-color: red;
+  position: fixed;
+  top: 50%;
+  left: 75%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+  /* background-color: green; */
+}
+.position-fixed-right {
+  background-color: red;
+  position: fixed;
+  top: 50%;
+  left: 25%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+  /* background-color: green; */
+}
 /* ////////////////////////////////WordsAndMarks//////////////////////////////////////////////////////// */
 .build_here {
   display: flex;
