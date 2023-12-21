@@ -130,20 +130,11 @@ export default function Video(props) {
           height="501"
           src={videoUrl}
           // src="https://www.youtube.com/embed/zOBzNmM9ylw"
-          title='#12 Walter Block   -  Author of "Defending The Undefendable", Loyola University Professor'
+          // title='#12 Walter Block   -  Author of "Defending The Undefendable", Loyola University Professor'
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen
         ></iframe>
-        {/* <iframe
-          width="891"
-          height="501"
-          src="https://www.youtube.com/embed/hgFX-ZsOscc?list=PLz3M1Oxfso8hMIGitwqb64bIXmMgGM_MN"
-          title="Your Dark Side and Control Over Your Life | Robert Greene | EP 237"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen
-        ></iframe> */}
         {/* <source src={videoUrl} type="video/mp4" /> */}
         {/* </video> */}
       </div>
