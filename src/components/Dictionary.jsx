@@ -1,4 +1,4 @@
-import { useState, useRef, useMemo } from "react";
+import { useState, useRef, useMemo, useEffect } from "react";
 // import LeftCard from "./LeftCard";
 // import RightCard from "./RightCard";
 import React from "react";
@@ -62,6 +62,9 @@ export default function Dictionary(props) {
         setIsSecond(true);
       }
     }
+    // setTimeout(() => {
+    //   setIsAlertVisible(false);
+    // }, 3000);
   }
   return (
     <>
