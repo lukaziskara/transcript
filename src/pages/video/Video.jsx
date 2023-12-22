@@ -11,7 +11,7 @@ import YouTube from "react-youtube";
 
 export default function Video(props) {
   const [startTime, setStartTime] = useState(0);
-  const [endTime, setEndTime] = useState(100);
+  const [endTime, setEndTime] = useState(300);
   const [isStarted, setIsStarted] = useState(false);
   const [newGame, setNewGame] = useState(0);
   const [searchWord, setSearchWord] = useState();
@@ -33,7 +33,7 @@ export default function Video(props) {
   // YoutubeTranscript.fetchTranscript(videoData).then(console.log);
   const wordsToChoose = useMemo(() => {
     const choicedLines = lines.filter(
-      (line) => startTime < line.time && line.time < endTime
+      (line) => startTime <= line.time && line.time < endTime
     );
     const wordsTemp = choicedLines
       .map((line) => line.line.toLowerCase().split(" "))
@@ -85,14 +85,19 @@ export default function Video(props) {
   }
   return (
     <div className="video">
-      <div className="">{videoData.title}</div>;
+      <div className="">{videoData.title}</div>
       <div className="sets">
         <div className="langar">
           <div className="time-choose">
             <div>
-              <input defaultValue="00:00:00-00:05:00" ref={inputRef} />
+              <input
+                defaultValue="00:00:00-00:05:00"
+                className="input-interval"
+                ref={inputRef}
+              />
               <input
                 type="submit"
+                className="input-interval"
                 onClick={() => {
                   handleSubmit();
                 }}

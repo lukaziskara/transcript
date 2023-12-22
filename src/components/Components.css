@@ -247,20 +247,22 @@ button {
 .hidden {
   display: none;
 }
-.position-fixed-left {
-  background-color: red;
+.fixed-won-word {
+  background-color: gold;
+  padding: 1em;
+  border: black;
+  border-radius: 1em;
   position: fixed;
   top: 50%;
-  left: 75%;
-  /* bring your own prefixes */
+  left: 50%;
+  font-size: 2em;
   transform: translate(-50%, -50%);
-  /* background-color: green; */
 }
 .position-fixed-right {
   background-color: red;
   position: fixed;
   top: 50%;
-  left: 25%;
+  left: 75%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
   /* background-color: green; */

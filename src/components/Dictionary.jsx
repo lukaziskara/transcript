@@ -21,6 +21,8 @@ export default function Dictionary(props) {
 
   const [clickedRightCardId, setClickedRightCardId] = useState();
   const [clickedLeftCardId, setClickedLeftCardId] = useState();
+  const [isFixedVisible, setIsFixedVisible] = useState(false);
+  const [wonWord, setWonWord] = useState([{ theWord: "", wTranslation: "" }]);
   // const [visibleBackIndex, setVisibleBackIndex] = useState();
   // const [clickedSentence, setClickedSentence] = useState(false);
   const [isSecond, setIsSecond] = useState(false);
@@ -47,7 +49,8 @@ export default function Dictionary(props) {
       props.setPoint(props.point + 1);
       props.setTries(props.tries + 1);
       wonWords.push(shuffledDataForLeft.splice(leftId.current, 1)[0]);
-      shuffledDataForRight.splice(rightId.current, 1);
+      setWonWord(shuffledDataForRight.splice(rightId.current, 1));
+      setIsFixedVisible(true);
       rightBack.current = null;
       leftBack.current = null;
       setClickedLeftCardId(null);
@@ -62,9 +65,10 @@ export default function Dictionary(props) {
         setIsSecond(true);
       }
     }
-    // setTimeout(() => {
-    //   setIsAlertVisible(false);
-    // }, 3000);
+    setTimeout(() => {
+      setIsFixedVisible(false);
+    }, 3000);
+    console.log(wonWord);
   }
   return (
     <>
@@ -85,7 +89,9 @@ export default function Dictionary(props) {
               <div className={secondPartState}>{cardData.theWord}</div>
             </div>
           ))}
-          <div className="position-fixed-left hidden">სიტყვა</div>
+          <div className={isFixedVisible ? "fixed-won-word" : "hidden"}>
+            {wonWord[0].wTranslation}-{wonWord[0].theWord}
+          </div>
         </div>
         <div className="b_words flex_wrap">
           <div className="position-fixed-right hidden">word</div>
