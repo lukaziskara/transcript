@@ -8082,513 +8082,174 @@
     "videoUrl": "https://www.youtube.com/embed/w5jwxrTqoEA",
     "data": "",
     "lines": [
-      { "time": 0, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 10, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 30, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 46, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 56, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 76, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 96, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 116, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 137, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 157, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 177, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 197, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 217, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 237, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 257, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      {
-        "time": 265,
-        "line": "\u00e2\u2122\u00aa \"AND THE MEEK SHALL INHERIT THE EARTH.\" \u00e2\u2122\u00aa"
-      },
-      { "time": 272, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 282, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      {
-        "time": 288,
-        "line": "\u00e2\u2122\u00aa WE'VE TAKEN CARE OF EVERYTHING \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 290,
-        "line": "\u00e2\u2122\u00aa THE WORDS YOU READ \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 291,
-        "line": "\u00e2\u2122\u00aa THE SONGS YOU SING \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 292,
-        "line": "\u00e2\u2122\u00aa THE PICTURES THAT GIVE PLEASURE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 294,
-        "line": "\u00e2\u2122\u00aa TO YOUR EYE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 295,
-        "line": "\u00e2\u2122\u00aa ONE FOR ALL AND ALL FOR ONE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 297,
-        "line": "\u00e2\u2122\u00aa WORK TOGETHER \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 298,
-        "line": "\u00e2\u2122\u00aa COMMON SONS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 299,
-        "line": "\u00e2\u2122\u00aa NEVER NEED TO WONDER \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 301,
-        "line": "\u00e2\u2122\u00aa HOW OR WHY \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 303,
-        "line": "\u00e2\u2122\u00aa WE ARE THE PRIESTS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 306,
-        "line": "\u00e2\u2122\u00aa OF THE TEMPLES OF SYRINX \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 310,
-        "line": "\u00e2\u2122\u00aa OUR GREAT COMPUTERS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 314,
-        "line": "\u00e2\u2122\u00aa FILL THE HALLOWED HALLS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 318,
-        "line": "\u00e2\u2122\u00aa WE ARE THE PRIESTS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 320,
-        "line": "\u00e2\u2122\u00aa OF THE TEMPLES OF SYRINX \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 325,
-        "line": "\u00e2\u2122\u00aa ALL THE GIFTS OF LIFE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 327,
-        "line": "\u00e2\u2122\u00aa ARE HELD WITHIN OUR WALLS \u00e2\u2122\u00aa"
-      },
-      { "time": 331, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      {
-        "time": 342,
-        "line": "\u00e2\u2122\u00aa LOOK AROUND THIS WORLD WE MADE \u00e2\u2122\u00aa"
-      },
-      { "time": 344, "line": "\u00e2\u2122\u00aa EQUALITY \u00e2\u2122\u00aa" },
-      {
-        "time": 345,
-        "line": "\u00e2\u2122\u00aa OUR STOCK IN TRADE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 346,
-        "line": "\u00e2\u2122\u00aa COME AND JOIN THE BROTHERHOOD \u00e2\u2122\u00aa"
-      },
-      { "time": 347, "line": "\u00e2\u2122\u00aa OF MAN \u00e2\u2122\u00aa" },
-      {
-        "time": 349,
-        "line": "\u00e2\u2122\u00aa WHAT A NICE CONTENTED WORLD \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 351,
-        "line": "\u00e2\u2122\u00aa LET THE BANNERS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 352,
-        "line": "\u00e2\u2122\u00aa BE UNFURLED \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 353,
-        "line": "\u00e2\u2122\u00aa HOLD THE RED STAR PROUDLY \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 355,
-        "line": "\u00e2\u2122\u00aa HIGH IN HAND. \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 358,
-        "line": "\u00e2\u2122\u00aa WE ARE THE PRIESTS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 360,
-        "line": "\u00e2\u2122\u00aa OF THE TEMPLES OF SYRINX \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 365,
-        "line": "\u00e2\u2122\u00aa OUR GREAT COMPUTERS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 368,
-        "line": "\u00e2\u2122\u00aa FILL THE HALLOWED HALLS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 372,
-        "line": "\u00e2\u2122\u00aa WE ARE THE PRIESTS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 374,
-        "line": "\u00e2\u2122\u00aa OF THE TEMPLES OF SYRINX \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 379,
-        "line": "\u00e2\u2122\u00aa ALL THE GIFTS OF LIFE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 381,
-        "line": "\u00e2\u2122\u00aa ARE HELD WITHIN OUR WALLS \u00e2\u2122\u00aa"
-      },
-      { "time": 385, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 395, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
+      { "time": 0, "line": "" },
+      { "time": 10, "line": "" },
+      { "time": 30, "line": "" },
+      { "time": 46, "line": "" },
+      { "time": 56, "line": "" },
+      { "time": 76, "line": "" },
+      { "time": 96, "line": "" },
+      { "time": 116, "line": "" },
+      { "time": 137, "line": "" },
+      { "time": 157, "line": "" },
+      { "time": 177, "line": "" },
+      { "time": 197, "line": "" },
+      { "time": 217, "line": "" },
+      { "time": 237, "line": "" },
+      { "time": 257, "line": "" },
+      { "time": 265, "line": "\"AND THE MEEK SHALL INHERIT THE EARTH.\"" },
+      { "time": 272, "line": "" },
+      { "time": 282, "line": "" },
+      { "time": 288, "line": "WE'VE TAKEN CARE OF EVERYTHING" },
+      { "time": 290, "line": "THE WORDS YOU READ" },
+      { "time": 291, "line": "THE SONGS YOU SING" },
+      { "time": 292, "line": "THE PICTURES THAT GIVE PLEASURE" },
+      { "time": 294, "line": "TO YOUR EYE" },
+      { "time": 295, "line": "ONE FOR ALL AND ALL FOR ONE" },
+      { "time": 297, "line": "WORK TOGETHER" },
+      { "time": 298, "line": "COMMON SONS" },
+      { "time": 299, "line": "NEVER NEED TO WONDER" },
+      { "time": 301, "line": "HOW OR WHY" },
+      { "time": 303, "line": "WE ARE THE PRIESTS" },
+      { "time": 306, "line": "OF THE TEMPLES OF SYRINX" },
+      { "time": 310, "line": "OUR GREAT COMPUTERS" },
+      { "time": 314, "line": "FILL THE HALLOWED HALLS" },
+      { "time": 318, "line": "WE ARE THE PRIESTS" },
+      { "time": 320, "line": "OF THE TEMPLES OF SYRINX" },
+      { "time": 325, "line": "ALL THE GIFTS OF LIFE" },
+      { "time": 327, "line": "ARE HELD WITHIN OUR WALLS" },
+      { "time": 331, "line": "" },
+      { "time": 342, "line": "LOOK AROUND THIS WORLD WE MADE" },
+      { "time": 344, "line": "EQUALITY" },
+      { "time": 345, "line": "OUR STOCK IN TRADE" },
+      { "time": 346, "line": "COME AND JOIN THE BROTHERHOOD" },
+      { "time": 347, "line": "OF MAN" },
+      { "time": 349, "line": "WHAT A NICE CONTENTED WORLD" },
+      { "time": 351, "line": "LET THE BANNERS" },
+      { "time": 352, "line": "BE UNFURLED" },
+      { "time": 353, "line": "HOLD THE RED STAR PROUDLY" },
+      { "time": 355, "line": "HIGH IN HAND." },
+      { "time": 358, "line": "WE ARE THE PRIESTS" },
+      { "time": 360, "line": "OF THE TEMPLES OF SYRINX" },
+      { "time": 365, "line": "OUR GREAT COMPUTERS" },
+      { "time": 368, "line": "FILL THE HALLOWED HALLS" },
+      { "time": 372, "line": "WE ARE THE PRIESTS" },
+      { "time": 374, "line": "OF THE TEMPLES OF SYRINX" },
+      { "time": 379, "line": "ALL THE GIFTS OF LIFE" },
+      { "time": 381, "line": "ARE HELD WITHIN OUR WALLS" },
+      { "time": 385, "line": "" },
+      { "time": 395, "line": "" },
       { "time": 406, "line": "(WATER FLOWING)" },
-      { "time": 410, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 420, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 440, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 460, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 480, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 500, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      {
-        "time": 506,
-        "line": "\u00e2\u2122\u00aa WHAT CAN THIS STRANGE DEVICE BE? \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 510,
-        "line": "\u00e2\u2122\u00aa WHEN I TOUCH IT, IT GIVES FORTH A SOUND \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 516,
-        "line": "\u00e2\u2122\u00aa IT'S GOT WIRES THAT VIBRATE, AND GIVE MUSIC \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 522,
-        "line": "\u00e2\u2122\u00aa WHAT CAN THIS THING BE THAT I FOUND? \u00e2\u2122\u00aa"
-      },
-      { "time": 527, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 537, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      {
-        "time": 553,
-        "line": "\u00e2\u2122\u00aa SEE HOW IT SINGS LIKE A SAD HEART \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 557,
-        "line": "\u00e2\u2122\u00aa AND JOYOUSLY SCREAMS OUT ITS PAIN \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 560,
-        "line": "\u00e2\u2122\u00aa SOUNDS THAT BUILD HIGH LIKE A MOUNTAIN \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 563,
-        "line": "\u00e2\u2122\u00aa OR NOTES THAT FALL GENTLY, LIKE RAIN. \u00e2\u2122\u00aa"
-      },
-      { "time": 573, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 583, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      {
-        "time": 595,
-        "line": "\u00e2\u2122\u00aa I CAN'T WAIT TO SHARE THIS NEW WONDER \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 599,
-        "line": "\u00e2\u2122\u00aa THE PEOPLE WILL ALL SEE ITS LIGHT \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 604,
-        "line": "\u00e2\u2122\u00aa LET THEM ALL MAKE THEIR OWN MUSIC \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 610,
-        "line": "\u00e2\u2122\u00aa THE PRIESTS PRAISE MY NAME ON THIS NIGHT. \u00e2\u2122\u00aa"
-      },
-      { "time": 615, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 625, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      {
-        "time": 634,
-        "line": "\u00e2\u2122\u00aa I KNOW IT'S MOST UNUSUAL \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 638,
-        "line": "\u00e2\u2122\u00aa TO COME BEFORE YOU SO \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 642,
-        "line": "\u00e2\u2122\u00aa BUT I'VE FOUND AN ANCIENT MIRACLE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 647,
-        "line": "\u00e2\u2122\u00aa I THOUGHT THAT YOU SHOULD KNOW \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 652,
-        "line": "\u00e2\u2122\u00aa LISTEN TO MY MUSIC \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 656,
-        "line": "\u00e2\u2122\u00aa AND HEAR WHAT IT CAN DO \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 661,
-        "line": "\u00e2\u2122\u00aa THERE'S SOMETHING HERE AS STRONG AS LIFE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 666,
-        "line": "\u00e2\u2122\u00aa I KNOW THAT IT WILL REACH YOU. \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 671,
-        "line": "(THE PRIESTS): \u00e2\u2122\u00aa YES, WE KNOW \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 673,
-        "line": "\u00e2\u2122\u00aa IT'S NOTHING NEW \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 675,
-        "line": "\u00e2\u2122\u00aa IT'S JUST A WASTE OF TIME \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 679,
-        "line": "\u00e2\u2122\u00aa WE HAVE NO NEED FOR ANCIENT WAYS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 684,
-        "line": "\u00e2\u2122\u00aa OUR WORLD IS DOING FINE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 690,
-        "line": "\u00e2\u2122\u00aa ANOTHER TOY \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 691,
-        "line": "\u00e2\u2122\u00aa THAT HELPED DESTROY \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 694,
-        "line": "\u00e2\u2122\u00aa THE ELDER RACE OF MAN \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 699,
-        "line": "\u00e2\u2122\u00aa FORGET ABOUT YOUR SILLY WHIM \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 703,
-        "line": "\u00e2\u2122\u00aa IT DOESN'T FIT THE PLAN \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 708,
-        "line": "\u00e2\u2122\u00aa I CAN'T BELIEVE YOU'RE SAYING \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 711,
-        "line": "\u00e2\u2122\u00aa THESE THINGS JUST CAN'T BE TRUE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 716,
-        "line": "\u00e2\u2122\u00aa OUR WORLD COULD USE THIS BEAUTY \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 721,
-        "line": "\u00e2\u2122\u00aa JUST THINK WHAT WE MIGHT DO \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 726,
-        "line": "\u00e2\u2122\u00aa LISTEN TO MY MUSIC \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 730,
-        "line": "\u00e2\u2122\u00aa AND HEAR WHAT IT CAN DO \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 734,
-        "line": "\u00e2\u2122\u00aa THERE'S SOMETHING HERE AS STRONG AS LIFE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 739,
-        "line": "\u00e2\u2122\u00aa I KNOW THAT IT WILL REACH YOU. \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 744,
-        "line": "(THE PRIESTS): \u00e2\u2122\u00aa DON'T ANNOY US FURTHER \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 748,
-        "line": "\u00e2\u2122\u00aa WE HAVE OUR WORK TO DO. \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 753,
-        "line": "\u00e2\u2122\u00aa JUST THINK ABOUT THE AVERAGE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 757,
-        "line": "\u00e2\u2122\u00aa WHAT USE HAVE THEY FOR YOU? \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 762,
-        "line": "\u00e2\u2122\u00aa ANOTHER TOY \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 765,
-        "line": "\u00e2\u2122\u00aa THAT HELPED DESTROY \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 767,
-        "line": "\u00e2\u2122\u00aa THE ELDER RACE OF MAN \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 772,
-        "line": "\u00e2\u2122\u00aa FORGET ABOUT YOUR SILLY WHIM \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 777,
-        "line": "\u00e2\u2122\u00aa IT DOESN'T FIT THE PLAN \u00e2\u2122\u00aa"
-      },
-      { "time": 779, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 789, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 809, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 829, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 837, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 847, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      {
-        "time": 862,
-        "line": "\u00e2\u2122\u00aa I WANDERED HOME THOUGH SILENT STREETS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 867,
-        "line": "\u00e2\u2122\u00aa AND FELL INTO A FITFUL SLEEP \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 874,
-        "line": "\u00e2\u2122\u00aa ESCAPE TO REALMS BEYOND THE NIGHT \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 879,
-        "line": "\u00e2\u2122\u00aa DREAM - CAN'T YOU SHOW ME LIGHT \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 891,
-        "line": "\u00e2\u2122\u00aa I STAND ATOP A SPIRAL STAIR \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 895,
-        "line": "\u00e2\u2122\u00aa AN ORACLE CONFRONTS ME THERE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 899,
-        "line": "\u00e2\u2122\u00aa HE LEADS ME ON, LIGHT YEARS AWAY \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 902,
-        "line": "\u00e2\u2122\u00aa THROUGH ASTRAL NIGHTS, GALACTIC DAYS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 906,
-        "line": "\u00e2\u2122\u00aa I SEE THE WORKS OF GIFTED HANDS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 910,
-        "line": "\u00e2\u2122\u00aa GRACE THIS STRANGE AND WONDROUS LAND \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 914,
-        "line": "\u00e2\u2122\u00aa I SEE THE HAND OF MAN ARISE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 917,
-        "line": "\u00e2\u2122\u00aa WITH HUNGRY MIND AND OPEN EYES \u00e2\u2122\u00aa"
-      },
-      { "time": 921, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      {
-        "time": 931,
-        "line": "\u00e2\u2122\u00aa THEY LEFT OUR PLANETS LONG AGO \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 935,
-        "line": "\u00e2\u2122\u00aa THE ELDER RACE STILL LEARN AND GROW \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 938,
-        "line": "\u00e2\u2122\u00aa THEIR POWER GROWS WITH PURPOSE STRONG \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 942,
-        "line": "\u00e2\u2122\u00aa TO CLAIM THE HOME WHERE THEY BELONG \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 947,
-        "line": "\u00e2\u2122\u00aa HOME TO TEAR THE TEMPLES DOWN \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 950,
-        "line": "\u00e2\u2122\u00aa HOME TO CHANGE \u00e2\u2122\u00aa"
-      },
-      { "time": 964, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 974, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      {
-        "time": 983,
-        "line": "\u00e2\u2122\u00aa THE SLEEP IS STILL IN MY EYES \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 989,
-        "line": "\u00e2\u2122\u00aa THE DREAM IS STILL IN MY HEAD \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 994,
-        "line": "\u00e2\u2122\u00aa I HEAVE A SIGH, AND SADLY SMILE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 999,
-        "line": "\u00e2\u2122\u00aa AND LIE A WHILE IN BED \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 1004,
-        "line": "\u00e2\u2122\u00aa I WISH THAT IT MIGHT COME TO PASS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 1010,
-        "line": "\u00e2\u2122\u00aa NOT FADE LIKE ALL MY DREAMS \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 1016,
-        "line": "\u00e2\u2122\u00aa JUST THINK OF WHAT MY LIFE MIGHT BE \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 1020,
-        "line": "\u00e2\u2122\u00aa IN A WORLD LIKE I HAVE SEEN \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 1026,
-        "line": "\u00e2\u2122\u00aa I DON'T THINK I CAN CARRY ON \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 1030,
-        "line": "\u00e2\u2122\u00aa CARRY ON THIS COLD AND EMPTY LIFE \u00e2\u2122\u00aa"
-      },
-      { "time": 1034, "line": "\u00e2\u2122\u00aa OH NO \u00e2\u2122\u00aa" },
-      { "time": 1038, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 1049, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 1069, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      {
-        "time": 1084,
-        "line": "\u00e2\u2122\u00aa MY SPIRITS ARE LOW, IN THE DEPTHS OF DESPAIR \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 1089,
-        "line": "\u00e2\u2122\u00aa MY LIFEBLOOD \u00e2\u2122\u00aa"
-      },
-      {
-        "time": 1094,
-        "line": "\u00e2\u2122\u00aa SPILLS OVER.... \u00e2\u2122\u00aa"
-      },
-      { "time": 1099, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 1106, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 1116, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 1136, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 1156, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 1176, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
-      { "time": 1196, "line": "\u00e2\u2122\u00aa \u00e2\u2122\u00aa" },
+      { "time": 410, "line": "" },
+      { "time": 420, "line": "" },
+      { "time": 440, "line": "" },
+      { "time": 460, "line": "" },
+      { "time": 480, "line": "" },
+      { "time": 500, "line": "" },
+      { "time": 506, "line": "WHAT CAN THIS STRANGE DEVICE BE?" },
+      { "time": 510, "line": "WHEN I TOUCH IT, IT GIVES FORTH A SOUND" },
+      { "time": 516, "line": "IT'S GOT WIRES THAT VIBRATE, AND GIVE MUSIC" },
+      { "time": 522, "line": "WHAT CAN THIS THING BE THAT I FOUND?" },
+      { "time": 527, "line": "" },
+      { "time": 537, "line": "" },
+      { "time": 553, "line": "SEE HOW IT SINGS LIKE A SAD HEART" },
+      { "time": 557, "line": "AND JOYOUSLY SCREAMS OUT ITS PAIN" },
+      { "time": 560, "line": "SOUNDS THAT BUILD HIGH LIKE A MOUNTAIN" },
+      { "time": 563, "line": "OR NOTES THAT FALL GENTLY, LIKE RAIN." },
+      { "time": 573, "line": "" },
+      { "time": 583, "line": "" },
+      { "time": 595, "line": "I CAN'T WAIT TO SHARE THIS NEW WONDER" },
+      { "time": 599, "line": "THE PEOPLE WILL ALL SEE ITS LIGHT" },
+      { "time": 604, "line": "LET THEM ALL MAKE THEIR OWN MUSIC" },
+      { "time": 610, "line": "THE PRIESTS PRAISE MY NAME ON THIS NIGHT." },
+      { "time": 615, "line": "" },
+      { "time": 625, "line": "" },
+      { "time": 634, "line": "I KNOW IT'S MOST UNUSUAL" },
+      { "time": 638, "line": "TO COME BEFORE YOU SO" },
+      { "time": 642, "line": "BUT I'VE FOUND AN ANCIENT MIRACLE" },
+      { "time": 647, "line": "I THOUGHT THAT YOU SHOULD KNOW" },
+      { "time": 652, "line": "LISTEN TO MY MUSIC" },
+      { "time": 656, "line": "AND HEAR WHAT IT CAN DO" },
+      { "time": 661, "line": "THERE'S SOMETHING HERE AS STRONG AS LIFE" },
+      { "time": 666, "line": "I KNOW THAT IT WILL REACH YOU." },
+      { "time": 671, "line": "(THE PRIESTS):  YES, WE KNOW" },
+      { "time": 673, "line": "IT'S NOTHING NEW" },
+      { "time": 675, "line": "IT'S JUST A WASTE OF TIME" },
+      { "time": 679, "line": "WE HAVE NO NEED FOR ANCIENT WAYS" },
+      { "time": 684, "line": "OUR WORLD IS DOING FINE" },
+      { "time": 690, "line": "ANOTHER TOY" },
+      { "time": 691, "line": "THAT HELPED DESTROY" },
+      { "time": 694, "line": "THE ELDER RACE OF MAN" },
+      { "time": 699, "line": "FORGET ABOUT YOUR SILLY WHIM" },
+      { "time": 703, "line": "IT DOESN'T FIT THE PLAN" },
+      { "time": 708, "line": "I CAN'T BELIEVE YOU'RE SAYING" },
+      { "time": 711, "line": "THESE THINGS JUST CAN'T BE TRUE" },
+      { "time": 716, "line": "OUR WORLD COULD USE THIS BEAUTY" },
+      { "time": 721, "line": "JUST THINK WHAT WE MIGHT DO" },
+      { "time": 726, "line": "LISTEN TO MY MUSIC" },
+      { "time": 730, "line": "AND HEAR WHAT IT CAN DO" },
+      { "time": 734, "line": "THERE'S SOMETHING HERE AS STRONG AS LIFE" },
+      { "time": 739, "line": "I KNOW THAT IT WILL REACH YOU." },
+      { "time": 744, "line": "(THE PRIESTS):  DON'T ANNOY US FURTHER" },
+      { "time": 748, "line": "WE HAVE OUR WORK TO DO." },
+      { "time": 753, "line": "JUST THINK ABOUT THE AVERAGE" },
+      { "time": 757, "line": "WHAT USE HAVE THEY FOR YOU?" },
+      { "time": 762, "line": "ANOTHER TOY" },
+      { "time": 765, "line": "THAT HELPED DESTROY" },
+      { "time": 767, "line": "THE ELDER RACE OF MAN" },
+      { "time": 772, "line": "FORGET ABOUT YOUR SILLY WHIM" },
+      { "time": 777, "line": "IT DOESN'T FIT THE PLAN" },
+      { "time": 779, "line": "" },
+      { "time": 789, "line": "" },
+      { "time": 809, "line": "" },
+      { "time": 829, "line": "" },
+      { "time": 837, "line": "" },
+      { "time": 847, "line": "" },
+      { "time": 862, "line": "I WANDERED HOME THOUGH SILENT STREETS" },
+      { "time": 867, "line": "AND FELL INTO A FITFUL SLEEP" },
+      { "time": 874, "line": "ESCAPE TO REALMS BEYOND THE NIGHT" },
+      { "time": 879, "line": "DREAM, CAN'T YOU SHOW ME LIGHT" },
+      { "time": 891, "line": "I STAND ATOP A SPIRAL STAIR" },
+      { "time": 895, "line": "AN ORACLE CONFRONTS ME THERE" },
+      { "time": 899, "line": "HE LEADS ME ON, LIGHT YEARS AWAY" },
+      { "time": 902, "line": "THROUGH ASTRAL NIGHTS, GALACTIC DAYS" },
+      { "time": 906, "line": "I SEE THE WORKS OF GIFTED HANDS" },
+      { "time": 910, "line": "GRACE THIS STRANGE AND WONDROUS LAND" },
+      { "time": 914, "line": "I SEE THE HAND OF MAN ARISE" },
+      { "time": 917, "line": "WITH HUNGRY MIND AND OPEN EYES" },
+      { "time": 921, "line": "" },
+      { "time": 931, "line": "THEY LEFT OUR PLANETS LONG AGO" },
+      { "time": 935, "line": "THE ELDER RACE STILL LEARN AND GROW" },
+      { "time": 938, "line": "THEIR POWER GROWS WITH PURPOSE STRONG" },
+      { "time": 942, "line": "TO CLAIM THE HOME WHERE THEY BELONG" },
+      { "time": 947, "line": "HOME TO TEAR THE TEMPLES DOWN" },
+      { "time": 950, "line": "HOME TO CHANGE" },
+      { "time": 964, "line": "" },
+      { "time": 974, "line": "" },
+      { "time": 983, "line": "THE SLEEP IS STILL IN MY EYES" },
+      { "time": 989, "line": "THE DREAM IS STILL IN MY HEAD" },
+      { "time": 994, "line": "I HEAVE A SIGH, AND SADLY SMILE" },
+      { "time": 999, "line": "AND LIE A WHILE IN BED" },
+      { "time": 1004, "line": "I WISH THAT IT MIGHT COME TO PASS" },
+      { "time": 1010, "line": "NOT FADE LIKE ALL MY DREAMS" },
+      { "time": 1016, "line": "JUST THINK OF WHAT MY LIFE MIGHT BE" },
+      { "time": 1020, "line": "IN A WORLD LIKE I HAVE SEEN" },
+      { "time": 1026, "line": "I DON'T THINK I CAN CARRY ON" },
+      { "time": 1030, "line": "CARRY ON THIS COLD AND EMPTY LIFE" },
+      { "time": 1034, "line": "OH NO" },
+      { "time": 1038, "line": "" },
+      { "time": 1049, "line": "" },
+      { "time": 1069, "line": "" },
+      { "time": 1084, "line": "MY SPIRITS ARE LOW, IN THE DEPTHS OF DESPAIR" },
+      { "time": 1089, "line": "MY LIFEBLOOD" },
+      { "time": 1094, "line": "SPILLS OVER...." },
+      { "time": 1099, "line": "" },
+      { "time": 1106, "line": "" },
+      { "time": 1116, "line": "" },
+      { "time": 1136, "line": "" },
+      { "time": 1156, "line": "" },
+      { "time": 1176, "line": "" },
+      { "time": 1196, "line": "" },
       { "time": 1206, "line": "ATTENTION ALL PLANETS OF THE SOLAR FEDERATION" },
       { "time": 1209, "line": "ATTENTION ALL PLANETS OF THE SOLAR FEDERATION" },
       { "time": 1213, "line": "ATTENTION ALL PLANETS OF THE SOLAR FEDERATION" },

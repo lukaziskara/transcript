@@ -888,6 +888,10 @@
     "wTranslation": "ცხოველი"
   },
   {
+    "theWord": "annoy",
+    "wTranslation": "თავის ზრდა"
+  },
+  {
     "theWord": "annoyed",
     "wTranslation": "გაღიზიანება"
   },
@@ -1056,6 +1060,10 @@
     "wTranslation": "არგუმენტები"
   },
   {
+    "theWord": "arise",
+    "wTranslation": "წამოჭრა"
+  },
+  {
     "theWord": "aristocracy",
     "wTranslation": "არისტოკრატია"
   },
@@ -1202,6 +1210,10 @@
   {
     "theWord": "atler",
     "wTranslation": "ატლერი"
+  },
+  {
+    "theWord": "atop",
+    "wTranslation": "მაღლა"
   },
   {
     "theWord": "attached",
@@ -1416,6 +1428,10 @@
     "wTranslation": "ბანკი"
   },
   {
+    "theWord": "banners",
+    "wTranslation": "ბანერები"
+  },
+  {
     "theWord": "bar",
     "wTranslation": "ურდული"
   },
@@ -1476,6 +1492,10 @@
     "wTranslation": "ყოფნა"
   },
   {
+    "theWord": "be",
+    "wTranslation": "ყოფნა"
+  },
+  {
     "theWord": "beanie",
     "wTranslation": "ლობიო"
   },
@@ -1518,6 +1538,10 @@
   {
     "theWord": "becoming",
     "wTranslation": "გახდება"
+  },
+  {
+    "theWord": "bed",
+    "wTranslation": "საწოლი"
   },
   {
     "theWord": "beds",
@@ -2022,6 +2046,10 @@
   {
     "theWord": "broom",
     "wTranslation": "ცოცხი"
+  },
+  {
+    "theWord": "brotherhood",
+    "wTranslation": "ძმობა"
   },
   {
     "theWord": "brought",
@@ -2808,6 +2836,10 @@
     "wTranslation": "პოლკოვნიკი"
   },
   {
+    "theWord": "cold",
+    "wTranslation": "ცივი"
+  },
+  {
     "theWord": "collaboration",
     "wTranslation": "თანამშრომლობა"
   },
@@ -3028,6 +3060,10 @@
     "wTranslation": "კომპიუტერი"
   },
   {
+    "theWord": "computers",
+    "wTranslation": "კომპიუტერები"
+  },
+  {
     "theWord": "con",
     "wTranslation": "შეთავაზება"
   },
@@ -3105,6 +3141,10 @@
   },
   {
     "theWord": "confronting",
+    "wTranslation": "დაპირისპირება"
+  },
+  {
+    "theWord": "confronts",
     "wTranslation": "დაპირისპირება"
   },
   {
@@ -3200,6 +3240,10 @@
     "wTranslation": "სიძულვილი"
   },
   {
+    "theWord": "contented",
+    "wTranslation": "კმაყოფილება"
+  },
+  {
     "theWord": "context",
     "wTranslation": "კონტექსტი"
   },
@@ -3253,7 +3297,7 @@
   },
   {
     "theWord": "controversial",
-    "wTranslation": "საკამათო"
+    "wTranslation": "სადავო"
   },
   {
     "theWord": "conventions",
@@ -3952,6 +3996,10 @@
     "wTranslation": "დეპრესიული"
   },
   {
+    "theWord": "depths",
+    "wTranslation": "სიღრმე"
+  },
+  {
     "theWord": "derelict",
     "wTranslation": "გაუქმება"
   },
@@ -3980,6 +4028,10 @@
     "wTranslation": "მერხი"
   },
   {
+    "theWord": "despair",
+    "wTranslation": "უიმედობა"
+  },
+  {
     "theWord": "desperate",
     "wTranslation": "სასოწარკვეთილი"
   },
@@ -3990,6 +4042,10 @@
   {
     "theWord": "destinies",
     "wTranslation": "ბედები"
+  },
+  {
+    "theWord": "destroy",
+    "wTranslation": "დანგრევა"
   },
   {
     "theWord": "destroying",
@@ -4400,6 +4456,14 @@
     "wTranslation": "ხატვა"
   },
   {
+    "theWord": "dream",
+    "wTranslation": "ოცნება"
+  },
+  {
+    "theWord": "dreams",
+    "wTranslation": "ოცნებები"
+  },
+  {
     "theWord": "drill",
     "wTranslation": "ბურღვა"
   },
@@ -4634,6 +4698,10 @@
   {
     "theWord": "elbows",
     "wTranslation": "იდაყვები"
+  },
+  {
+    "theWord": "elder",
+    "wTranslation": "უფროსი"
   },
   {
     "theWord": "election",
@@ -4914,6 +4982,10 @@
   {
     "theWord": "equal",
     "wTranslation": "თანასწორი"
+  },
+  {
+    "theWord": "equality",
+    "wTranslation": "თანასწორობა"
   },
   {
     "theWord": "equation",
@@ -5312,6 +5384,10 @@
     "wTranslation": "ქარხანა"
   },
   {
+    "theWord": "fade",
+    "wTranslation": "ჭკნობა"
+  },
+  {
     "theWord": "fail",
     "wTranslation": "მარცხის განცდა"
   },
@@ -5344,8 +5420,16 @@
     "wTranslation": "ბექვს"
   },
   {
+    "theWord": "fall",
+    "wTranslation": "დაცემა"
+  },
+  {
     "theWord": "falls",
     "wTranslation": "დაცემა"
+  },
+  {
+    "theWord": "falsedHGH",
+    "wTranslation": "ყალბი"
   },
   {
     "theWord": "fame",
@@ -5448,6 +5532,10 @@
     "wTranslation": "შიში"
   },
   {
+    "theWord": "federation",
+    "wTranslation": "ფედერაცია"
+  },
+  {
     "theWord": "feedback",
     "wTranslation": "კავშირი"
   },
@@ -5466,6 +5554,10 @@
   {
     "theWord": "feet2",
     "wTranslation": "ფეხები 2"
+  },
+  {
+    "theWord": "fell",
+    "wTranslation": "დაეცა"
   },
   {
     "theWord": "fellow",
@@ -5602,6 +5694,10 @@
   {
     "theWord": "fit",
     "wTranslation": "ჯდება"
+  },
+  {
+    "theWord": "fitful",
+    "wTranslation": "ლამაზი"
   },
   {
     "theWord": "fitting",
@@ -5788,6 +5884,10 @@
     "wTranslation": "ნაპოვნი"
   },
   {
+    "theWord": "found",
+    "wTranslation": "ნაპოვნი"
+  },
+  {
     "theWord": "foundation",
     "wTranslation": "საფუძველი"
   },
@@ -5952,6 +6052,10 @@
     "wTranslation": "გ"
   },
   {
+    "theWord": "galactic",
+    "wTranslation": "გალაქტიკური"
+  },
+  {
     "theWord": "game",
     "wTranslation": "თამაში"
   },
@@ -6028,6 +6132,10 @@
     "wTranslation": "ნაზი"
   },
   {
+    "theWord": "gently",
+    "wTranslation": "გულუხვად"
+  },
+  {
     "theWord": "genuinely",
     "wTranslation": "ჭეშმარიტად"
   },
@@ -6074,6 +6182,14 @@
   {
     "theWord": "gift",
     "wTranslation": "საჩუქარი"
+  },
+  {
+    "theWord": "gifted",
+    "wTranslation": "ნიჭიერი"
+  },
+  {
+    "theWord": "gifts",
+    "wTranslation": "საჩუქრები"
   },
   {
     "theWord": "gigantic",
@@ -6220,6 +6336,10 @@
     "wTranslation": "აითვისა"
   },
   {
+    "theWord": "grace",
+    "wTranslation": "გრაცია"
+  },
+  {
     "theWord": "gracian",
     "wTranslation": "გრაკანი"
   },
@@ -6324,6 +6444,10 @@
     "wTranslation": "იზრდება"
   },
   {
+    "theWord": "grows",
+    "wTranslation": "ზრდის"
+  },
+  {
     "theWord": "growth",
     "wTranslation": "სიმსივნე"
   },
@@ -6406,6 +6530,14 @@
   {
     "theWord": "half",
     "wTranslation": "ნახევარი"
+  },
+  {
+    "theWord": "hallowed",
+    "wTranslation": "ჰოლგივით"
+  },
+  {
+    "theWord": "halls",
+    "wTranslation": "დარბაზები"
   },
   {
     "theWord": "hallucinogenic",
@@ -6604,12 +6736,20 @@
     "wTranslation": "გულები"
   },
   {
+    "theWord": "heave",
+    "wTranslation": "ძვირფასო"
+  },
+  {
     "theWord": "heavily",
     "wTranslation": "მძიმედ"
   },
   {
     "theWord": "height",
     "wTranslation": "სიმაღლე"
+  },
+  {
+    "theWord": "held",
+    "wTranslation": "ჩატარებული"
   },
   {
     "theWord": "hell",
@@ -6960,6 +7100,10 @@
     "wTranslation": "მარტოხელა"
   },
   {
+    "theWord": "hungry",
+    "wTranslation": "მშიერი"
+  },
+  {
     "theWord": "hurt",
     "wTranslation": "მტკივნეული"
   },
@@ -7274,6 +7418,10 @@
   {
     "theWord": "ingratiating",
     "wTranslation": "ჭხვის"
+  },
+  {
+    "theWord": "inherit",
+    "wTranslation": "მემკვიდრეობით მიღება"
   },
   {
     "theWord": "initially",
@@ -7712,6 +7860,10 @@
     "wTranslation": "ჯონ"
   },
   {
+    "theWord": "join",
+    "wTranslation": "შეერთება"
+  },
+  {
     "theWord": "joke",
     "wTranslation": "ხუმრობა"
   },
@@ -7742,6 +7894,10 @@
   {
     "theWord": "joy",
     "wTranslation": "მხიარულება"
+  },
+  {
+    "theWord": "joyously",
+    "wTranslation": "მხიარულად"
   },
   {
     "theWord": "joys",
@@ -8025,7 +8181,7 @@
   },
   {
     "theWord": "lead",
-    "wTranslation": "ტყვია"
+    "wTranslation": "ლოტი"
   },
   {
     "theWord": "leads",
@@ -8282,6 +8438,10 @@
   {
     "theWord": "life-course",
     "wTranslation": "შემდგომი კურსი"
+  },
+  {
+    "theWord": "lifeblood",
+    "wTranslation": "სიცოცხლის სისხლი"
   },
   {
     "theWord": "lifting",
@@ -8920,6 +9080,10 @@
     "wTranslation": "მედიტაციები"
   },
   {
+    "theWord": "meek",
+    "wTranslation": "მოწინააღმდეგე"
+  },
+  {
     "theWord": "meet",
     "wTranslation": "შეხვედრა"
   },
@@ -9053,7 +9217,7 @@
   },
   {
     "theWord": "might",
-    "wTranslation": "შეიძლება"
+    "wTranslation": "ძალა"
   },
   {
     "theWord": "milder",
@@ -9664,6 +9828,10 @@
     "wTranslation": "ღამე"
   },
   {
+    "theWord": "nights",
+    "wTranslation": "ღამეები"
+  },
+  {
     "theWord": "nine",
     "wTranslation": "ცხრა"
   },
@@ -9769,7 +9937,7 @@
   },
   {
     "theWord": "notice",
-    "wTranslation": "შენიშვნა"
+    "wTranslation": "განცხადება"
   },
   {
     "theWord": "notion",
@@ -10018,6 +10186,10 @@
   {
     "theWord": "or",
     "wTranslation": "ან"
+  },
+  {
+    "theWord": "oracle",
+    "wTranslation": "Oracle"
   },
   {
     "theWord": "orange",
@@ -10568,6 +10740,10 @@
     "wTranslation": "სურათი"
   },
   {
+    "theWord": "pictures",
+    "wTranslation": "სურათები"
+  },
+  {
     "theWord": "piece",
     "wTranslation": "ნაჭერი"
   },
@@ -10608,8 +10784,16 @@
     "wTranslation": "ჭირი"
   },
   {
+    "theWord": "plan",
+    "wTranslation": "გეგმა"
+  },
+  {
     "theWord": "plane",
     "wTranslation": "თვითმფრინავი"
+  },
+  {
+    "theWord": "planets",
+    "wTranslation": "პლანეტები"
   },
   {
     "theWord": "planners",
@@ -10900,6 +11084,10 @@
     "wTranslation": "პრერია"
   },
   {
+    "theWord": "praise",
+    "wTranslation": "დიდება"
+  },
+  {
     "theWord": "praised",
     "wTranslation": "დიდება"
   },
@@ -10998,6 +11186,10 @@
   {
     "theWord": "prices",
     "wTranslation": "ფასები"
+  },
+  {
+    "theWord": "priests",
+    "wTranslation": "მღვდლები"
   },
   {
     "theWord": "primal",
@@ -11508,6 +11700,10 @@
     "wTranslation": "რელსი"
   },
   {
+    "theWord": "rain",
+    "wTranslation": "წვიმა"
+  },
+  {
     "theWord": "raise",
     "wTranslation": "მომატება"
   },
@@ -11588,6 +11784,10 @@
     "wTranslation": "სამართებელი"
   },
   {
+    "theWord": "reach",
+    "wTranslation": "მიღწევა"
+  },
+  {
     "theWord": "reached",
     "wTranslation": "მიაღწია"
   },
@@ -11652,6 +11852,10 @@
     "wTranslation": "ნამდვილად"
   },
   {
+    "theWord": "realms",
+    "wTranslation": "სფეროები"
+  },
+  {
     "theWord": "reason",
     "wTranslation": "მიზეზი"
   },
@@ -11706,6 +11910,10 @@
   {
     "theWord": "recommended",
     "wTranslation": "რეკომენდებული"
+  },
+  {
+    "theWord": "red",
+    "wTranslation": "წითელი"
   },
   {
     "theWord": "reduce",
@@ -12170,6 +12378,14 @@
   {
     "theWord": "s",
     "wTranslation": "S"
+  },
+  {
+    "theWord": "sad",
+    "wTranslation": "ნაღვლიანი"
+  },
+  {
+    "theWord": "sadly",
+    "wTranslation": "სამწუხაროდ"
   },
   {
     "theWord": "safe",
@@ -12744,6 +12960,10 @@
     "wTranslation": "მხარეები"
   },
   {
+    "theWord": "sigh",
+    "wTranslation": "შვებით"
+  },
+  {
     "theWord": "sign",
     "wTranslation": "ნიშანი"
   },
@@ -12754,6 +12974,10 @@
   {
     "theWord": "signing",
     "wTranslation": "ხელმოწერა"
+  },
+  {
+    "theWord": "silent",
+    "wTranslation": "ჩუმი"
   },
   {
     "theWord": "silliness",
@@ -12792,12 +13016,20 @@
     "wTranslation": "-დან"
   },
   {
+    "theWord": "sing",
+    "wTranslation": "მღერა"
+  },
+  {
     "theWord": "singapore",
     "wTranslation": "სინგაპური"
   },
   {
     "theWord": "single",
     "wTranslation": "მარტოხელა"
+  },
+  {
+    "theWord": "sings",
+    "wTranslation": "მღერის"
   },
   {
     "theWord": "siri",
@@ -12916,6 +13148,10 @@
     "wTranslation": "დნობები"
   },
   {
+    "theWord": "smile",
+    "wTranslation": "ღიმილი"
+  },
+  {
     "theWord": "smoothly",
     "wTranslation": "შეუფერხებლად"
   },
@@ -12996,6 +13232,10 @@
     "wTranslation": "რბილი"
   },
   {
+    "theWord": "solar",
+    "wTranslation": "მზის მზის"
+  },
+  {
     "theWord": "sold",
     "wTranslation": "გაიყიდა"
   },
@@ -13068,6 +13308,14 @@
     "wTranslation": "შვილის"
   },
   {
+    "theWord": "songs",
+    "wTranslation": "სიმღერები"
+  },
+  {
+    "theWord": "sons",
+    "wTranslation": "შვილები"
+  },
+  {
     "theWord": "soon",
     "wTranslation": "ჩქარა"
   },
@@ -13098,6 +13346,10 @@
   {
     "theWord": "souls",
     "wTranslation": "სულები"
+  },
+  {
+    "theWord": "sound",
+    "wTranslation": "ჯანმრთელი"
   },
   {
     "theWord": "sounded",
@@ -13216,8 +13468,20 @@
     "wTranslation": "დახარჯული"
   },
   {
+    "theWord": "spills",
+    "wTranslation": "დაღვრა"
+  },
+  {
+    "theWord": "spiral",
+    "wTranslation": "სპირალური"
+  },
+  {
     "theWord": "spiraling",
     "wTranslation": "სპირალური"
+  },
+  {
+    "theWord": "spirits",
+    "wTranslation": "სულები"
   },
   {
     "theWord": "spoken",
@@ -13278,6 +13542,10 @@
   {
     "theWord": "stage",
     "wTranslation": "ბაქტი"
+  },
+  {
+    "theWord": "stair",
+    "wTranslation": "საფეხური"
   },
   {
     "theWord": "stairs",
@@ -13414,6 +13682,10 @@
   {
     "theWord": "sto",
     "wTranslation": "სენტ"
+  },
+  {
+    "theWord": "stock",
+    "wTranslation": "მარაგი"
   },
   {
     "theWord": "stole",
@@ -13884,6 +14156,10 @@
     "wTranslation": "სიმფონია"
   },
   {
+    "theWord": "syrinx",
+    "wTranslation": "გმირი"
+  },
+  {
     "theWord": "system",
     "wTranslation": "სისტემა"
   },
@@ -13905,6 +14181,10 @@
   },
   {
     "theWord": "take",
+    "wTranslation": "მიღება"
+  },
+  {
+    "theWord": "taken",
     "wTranslation": "მიღება"
   },
   {
@@ -14042,6 +14322,10 @@
   {
     "theWord": "temperamentally",
     "wTranslation": "ტემპერამენტულად"
+  },
+  {
+    "theWord": "temples",
+    "wTranslation": "ტაძრები"
   },
   {
     "theWord": "ten",
@@ -14185,7 +14469,11 @@
   },
   {
     "theWord": "thesis",
-    "wTranslation": "თეზისი"
+    "wTranslation": "wTranslation"
+  },
+  {
+    "theWord": "theWord",
+    "wTranslation": "სიტყვა"
   },
   {
     "theWord": "they",
@@ -14496,6 +14784,10 @@
     "wTranslation": "ტოქსიკური"
   },
   {
+    "theWord": "toy",
+    "wTranslation": "სათამაშო"
+  },
+  {
     "theWord": "track",
     "wTranslation": "მიკვლევა"
   },
@@ -14650,6 +14942,10 @@
   {
     "theWord": "trucks",
     "wTranslation": "სატვირთო მანქანები"
+  },
+  {
+    "theWord": "trueADAN",
+    "wTranslation": "Trueadan"
   },
   {
     "theWord": "truly",
@@ -14882,6 +15178,10 @@
   {
     "theWord": "unfortunately",
     "wTranslation": "საუბედინაც"
+  },
+  {
+    "theWord": "unfurled",
+    "wTranslation": "დაუზიანებელი"
   },
   {
     "theWord": "unhappily",
@@ -15126,6 +15426,10 @@
   {
     "theWord": "viable",
     "wTranslation": "სიცოცხლისუნარიანი"
+  },
+  {
+    "theWord": "vibrate",
+    "wTranslation": "ქანაობა"
   },
   {
     "theWord": "vice",
@@ -15400,6 +15704,10 @@
     "wTranslation": "ყურება"
   },
   {
+    "theWord": "water",
+    "wTranslation": "მორწყვა"
+  },
+  {
     "theWord": "wattles",
     "wTranslation": "wattles"
   },
@@ -15552,6 +15860,10 @@
     "wTranslation": "პერიოდი"
   },
   {
+    "theWord": "whim",
+    "wTranslation": "ახირება"
+  },
+  {
     "theWord": "whine",
     "wTranslation": "ღმუილი"
   },
@@ -15676,6 +15988,10 @@
     "wTranslation": "მოგება"
   },
   {
+    "theWord": "wires",
+    "wTranslation": "მავთულები"
+  },
+  {
     "theWord": "wiring",
     "wTranslation": "გაყვანილობა"
   },
@@ -15762,6 +16078,10 @@
   {
     "theWord": "wondering",
     "wTranslation": "გაკვირვებული"
+  },
+  {
+    "theWord": "wondrous",
+    "wTranslation": "გასაოცარი"
   },
   {
     "theWord": "wono",
@@ -15964,6 +16284,10 @@
     "wTranslation": "შენ"
   },
   {
+    "theWord": "you",
+    "wTranslation": "შენ"
+  },
+  {
     "theWord": "you'd",
     "wTranslation": "ნეტავ"
   },
@@ -16006,13 +16330,5 @@
   {
     "theWord": "zero",
     "wTranslation": "ნული"
-  },
-  {
-    "theWord": "FALSE",
-    "wTranslation": "ცრუ"
-  },
-  {
-    "theWord": "TRUE",
-    "wTranslation": "მართალი"
   }
 ]
