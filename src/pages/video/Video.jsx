@@ -29,12 +29,14 @@ export default function Video(props) {
 
   console.log(searchedWords);
   const videoUrl = videoData.videoUrl;
-  console.log(videoData, videoUrl);
+  console.log(videoData, lines);
   // YoutubeTranscript.fetchTranscript(videoData).then(console.log);
   const wordsToChoose = useMemo(() => {
+    console.log(lines, startTime, endTime);
     const choicedLines = lines.filter(
       (line) => startTime <= line.time && line.time < endTime
     );
+    console.log(choicedLines, "choicedLines");
     const wordsTemp = choicedLines
       .map((line) => line.line.toLowerCase().split(" "))
       .flat()
@@ -85,11 +87,13 @@ export default function Video(props) {
   }
   return (
     <div className="video">
-      <div className="">{videoData.title}</div>
+      <div className="">
+        <h1>{videoData.title}</h1>
+      </div>
       <div className="sets">
         <div className="langar">
-          <div className="time-choose">
-            <div>
+          <div className="choose-panel">
+            <div className="time-choose">
               <input
                 defaultValue="00:00:00-00:05:00"
                 className="input-interval"
@@ -103,6 +107,7 @@ export default function Video(props) {
                 }}
               />
             </div>
+            <div className="">{wordsToChoose.length} სიტყვა</div>
           </div>
           <div className="words">
             {wordsToChoose.map((word, index) => (
@@ -116,15 +121,17 @@ export default function Video(props) {
               </div>
             ))}
           </div>
+          <div className="start-button">
+            <button
+              onClick={() => {
+                if (!isStarted) setNewGame(newGame + 1);
+                setIsStarted(!isStarted);
+              }}
+            >
+              დაწყება
+            </button>
+          </div>
         </div>
-        <button
-          onClick={() => {
-            if (!isStarted) setNewGame(newGame + 1);
-            setIsStarted(!isStarted);
-          }}
-        >
-          დაწყება
-        </button>
         {isStarted ? <Game wordsForGame={wordsForGame} /> : null}
       </div>
       <div className="video-palyer">

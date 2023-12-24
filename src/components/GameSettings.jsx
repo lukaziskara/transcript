@@ -48,15 +48,15 @@ export default function Settings(props) {
     // dictionarySettings,
     setDictionarySettings,
   } = props;
-  const [chosenDifficulty, setChosenDifficulty] = useState(1);
+  const [chosenDifficulty, setChosenDifficulty] = useState(5);
   const [firstPartState, setFirstPartState] = useState(
-    gameDifficulties[0].isFirstVisible
+    gameDifficulties[4].isFirstVisible
   );
   const [secondPartState, setSecondPartState] = useState(
-    gameDifficulties[0].isSecondVisible
+    gameDifficulties[4].isSecondVisible
   );
   const [thirdPartState, setThirdPartState] = useState(
-    gameDifficulties[0].isThirdVisible
+    gameDifficulties[4].isThirdVisible
   );
   const [sentencesFirstState, setSentencesFirstState] =
     useState(firstPartState);
@@ -98,12 +98,12 @@ export default function Settings(props) {
         <div className="">
           <div className="card left_card">
             <div className={firstPartState}>სიტყვა</div>
-            <div className={secondPartState}>დოშ</div>
+            <div className={secondPartState}>word</div>
           </div>
         </div>
         <div className="">
           <div className="card right_card">
-            <div className={thirdPartState}>დოშ</div>
+            <div className={thirdPartState}>word</div>
           </div>
         </div>
       </div>
