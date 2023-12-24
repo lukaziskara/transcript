@@ -38,7 +38,19 @@ export default function Video(props) {
     );
     console.log(choicedLines, "choicedLines");
     const wordsTemp = choicedLines
-      .map((line) => line.line.toLowerCase().split(" "))
+      .map((line) =>
+        line.line
+          .toLowerCase()
+          .replace(",", "")
+          .replace(".", "")
+          .replace('"', "")
+          .replace('"', "")
+          .replace("(", "")
+          .replace(")", "")
+          .replace(":", "")
+          .replace("?", "")
+          .split(" ")
+      )
       .flat()
       .filter((value, index, self) => self.indexOf(value) === index);
     return wordsTemp.map((word) => ({

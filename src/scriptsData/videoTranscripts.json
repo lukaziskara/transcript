@@ -8208,7 +8208,7 @@
       { "time": 862, "line": "I WANDERED HOME THOUGH SILENT STREETS" },
       { "time": 867, "line": "AND FELL INTO A FITFUL SLEEP" },
       { "time": 874, "line": "ESCAPE TO REALMS BEYOND THE NIGHT" },
-      { "time": 879, "line": "DREAM - CAN'T YOU SHOW ME LIGHT" },
+      { "time": 879, "line": "DREAM, CAN'T YOU SHOW ME LIGHT" },
       { "time": 891, "line": "I STAND ATOP A SPIRAL STAIR" },
       { "time": 895, "line": "AN ORACLE CONFRONTS ME THERE" },
       { "time": 899, "line": "HE LEADS ME ON, LIGHT YEARS AWAY" },
@@ -8256,7 +8256,7 @@
       { "time": 1217, "line": "WE HAVE ASSUMED CONTROL." },
       { "time": 1219, "line": "WE HAVE ASSUMED CONTROL." },
       { "time": 1221, "line": "WE HAVE ASSUMED CONTROL." }
-    ]    
+    ]
   },
   {
     "title": "The Killers- Joel the Lump of Coal",
@@ -8328,6 +8328,6 @@
       { "time": 220, "line": "of a diamond on Christmas Day" },
       { "time": 226, "line": "Music" },
       { "time": 235, "line": "Music" }
-    ]    
+    ]
   }
 ]
