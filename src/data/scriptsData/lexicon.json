@@ -4061,5 +4061,2853 @@
   { "theWord": "turns", "wTranslation": "მონაცვლეობები" },
   { "theWord": "warm", "wTranslation": "თბილი" },
   { "theWord": "whose", "wTranslation": "ვისი" },
-  { "theWord": "yelled", "wTranslation": "ყვირილი" }
+  { "theWord": "yelled", "wTranslation": "ყვირილი" },
+  {
+    "theWord": 20,
+    "wTranslation": 20
+  },
+  {
+    "theWord": 24,
+    "wTranslation": 24
+  },
+  {
+    "theWord": 365,
+    "wTranslation": 365
+  },
+  {
+    "theWord": "401k",
+    "wTranslation": "401 კ"
+  },
+  {
+    "theWord": "401ks",
+    "wTranslation": "401K"
+  },
+  {
+    "theWord": 7,
+    "wTranslation": 7
+  },
+  {
+    "theWord": 989898,
+    "wTranslation": 989898
+  },
+  {
+    "theWord": "a",
+    "wTranslation": "განუსაზღვრელი არტიკლი"
+  },
+  {
+    "theWord": "able",
+    "wTranslation": "უნარიანი"
+  },
+  {
+    "theWord": "about",
+    "wTranslation": "გარშემო"
+  },
+  {
+    "theWord": "accomplished",
+    "wTranslation": "მიღწეული"
+  },
+  {
+    "theWord": "accomplishment",
+    "wTranslation": "დასრულება"
+  },
+  {
+    "theWord": "account",
+    "wTranslation": "ანგარიში"
+  },
+  {
+    "theWord": "across",
+    "wTranslation": "გაღმა"
+  },
+  {
+    "theWord": "active",
+    "wTranslation": "აქტიური"
+  },
+  {
+    "theWord": "actualities",
+    "wTranslation": "ფაქტობრივობა"
+  },
+  {
+    "theWord": "actually",
+    "wTranslation": "სინამდვილეში"
+  },
+  {
+    "theWord": "addictions",
+    "wTranslation": "დამოკიდებულებები"
+  },
+  {
+    "theWord": "administration",
+    "wTranslation": "ადმინისტრაცია"
+  },
+  {
+    "theWord": "admit",
+    "wTranslation": "აღიარება"
+  },
+  {
+    "theWord": "afraid",
+    "wTranslation": "შეშინებული"
+  },
+  {
+    "theWord": "after",
+    "wTranslation": "შემდეგ"
+  },
+  {
+    "theWord": "afterwards",
+    "wTranslation": "შემდგომ"
+  },
+  {
+    "theWord": "against",
+    "wTranslation": "წინააღმდეგ"
+  },
+  {
+    "theWord": "ago",
+    "wTranslation": "წინათ"
+  },
+  {
+    "theWord": "aim",
+    "wTranslation": "მიზანი"
+  },
+  {
+    "theWord": "all",
+    "wTranslation": "ყველა"
+  },
+  {
+    "theWord": "almost",
+    "wTranslation": "თითქმის"
+  },
+  {
+    "theWord": "already",
+    "wTranslation": "უკვე"
+  },
+  {
+    "theWord": "also",
+    "wTranslation": "აგრეთვე"
+  },
+  {
+    "theWord": "alternative",
+    "wTranslation": "ალტერნატივა"
+  },
+  {
+    "theWord": "always",
+    "wTranslation": "ყოველთვის"
+  },
+  {
+    "theWord": "am",
+    "wTranslation": "ვარ"
+  },
+  {
+    "theWord": "america",
+    "wTranslation": "ამერიკა"
+  },
+  {
+    "theWord": "an",
+    "wTranslation": "and"
+  },
+  {
+    "theWord": "and",
+    "wTranslation": "და"
+  },
+  {
+    "theWord": "announce",
+    "wTranslation": "გამოცხადება"
+  },
+  {
+    "theWord": "another",
+    "wTranslation": "სხვა"
+  },
+  {
+    "theWord": "answer",
+    "wTranslation": "პასუხი"
+  },
+  {
+    "theWord": "anxiety",
+    "wTranslation": "წუხილი"
+  },
+  {
+    "theWord": "any",
+    "wTranslation": "რომელიმე"
+  },
+  {
+    "theWord": "anybody",
+    "wTranslation": "ვინმე"
+  },
+  {
+    "theWord": "anything",
+    "wTranslation": "რაიმე"
+  },
+  {
+    "theWord": "apocalypse",
+    "wTranslation": "აპოკალიპსი"
+  },
+  {
+    "theWord": "appear",
+    "wTranslation": "გამოჩენა"
+  },
+  {
+    "theWord": "apprehend",
+    "wTranslation": "ჩაწვდომა"
+  },
+  {
+    "theWord": "approach",
+    "wTranslation": "მიახლოება"
+  },
+  {
+    "theWord": "approaches",
+    "wTranslation": "მიღწევები"
+  },
+  {
+    "theWord": "approaching",
+    "wTranslation": "მოახლოება"
+  },
+  {
+    "theWord": "archetypally",
+    "wTranslation": "არქეტიპალურად"
+  },
+  {
+    "theWord": "are",
+    "wTranslation": "არიან"
+  },
+  {
+    "theWord": "arrangements",
+    "wTranslation": "შეთავაზებები"
+  },
+  {
+    "theWord": "articulate",
+    "wTranslation": "გარკვევით მეტყველება"
+  },
+  {
+    "theWord": "as",
+    "wTranslation": "როგორც"
+  },
+  {
+    "theWord": "ask",
+    "wTranslation": "კითხვის"
+  },
+  {
+    "theWord": "asked",
+    "wTranslation": "ჰკითხა"
+  },
+  {
+    "theWord": "asking",
+    "wTranslation": "მოთხოვნა"
+  },
+  {
+    "theWord": "asks",
+    "wTranslation": "ეკითხება"
+  },
+  {
+    "theWord": "associate",
+    "wTranslation": "კომპანიონი ქალი"
+  },
+  {
+    "theWord": "at",
+    "wTranslation": "-ზე"
+  },
+  {
+    "theWord": "attitude",
+    "wTranslation": "პოზა"
+  },
+  {
+    "theWord": "away",
+    "wTranslation": "შორს"
+  },
+  {
+    "theWord": "back",
+    "wTranslation": "ზურგი"
+  },
+  {
+    "theWord": "backup",
+    "wTranslation": "სარეზერვო"
+  },
+  {
+    "theWord": "bad",
+    "wTranslation": "ცუდი"
+  },
+  {
+    "theWord": "be",
+    "wTranslation": "ყოფნა"
+  },
+  {
+    "theWord": "because",
+    "wTranslation": "იმიტომ რომ"
+  },
+  {
+    "theWord": "become",
+    "wTranslation": "გახდომა"
+  },
+  {
+    "theWord": "becomes",
+    "wTranslation": "ხდება"
+  },
+  {
+    "theWord": "becoming",
+    "wTranslation": "გახდება"
+  },
+  {
+    "theWord": "bed",
+    "wTranslation": "საწოლი"
+  },
+  {
+    "theWord": "behavioral",
+    "wTranslation": "ქცევითი"
+  },
+  {
+    "theWord": "better",
+    "wTranslation": "უკეთესი"
+  },
+  {
+    "theWord": "birch",
+    "wTranslation": "არყალი"
+  },
+  {
+    "theWord": "bit",
+    "wTranslation": "ნაჭერი"
+  },
+  {
+    "theWord": "bloody",
+    "wTranslation": "სისხლიანი"
+  },
+  {
+    "theWord": "body",
+    "wTranslation": "სხეული"
+  },
+  {
+    "theWord": "bought",
+    "wTranslation": "შეიძინა"
+  },
+  {
+    "theWord": "breakfast",
+    "wTranslation": "საუზმე"
+  },
+  {
+    "theWord": "bureau",
+    "wTranslation": "ბიურო"
+  },
+  {
+    "theWord": "business",
+    "wTranslation": "საქმე"
+  },
+  {
+    "theWord": "but",
+    "wTranslation": "მაგრამ"
+  },
+  {
+    "theWord": "by",
+    "wTranslation": "მიერ"
+  },
+  {
+    "theWord": "called",
+    "wTranslation": "სახელწოდებით"
+  },
+  {
+    "theWord": "calms",
+    "wTranslation": "მშვიდი"
+  },
+  {
+    "theWord": "can",
+    "wTranslation": "კანდიდატი"
+  },
+  {
+    "theWord": "can't",
+    "wTranslation": "არ შეუძლია"
+  },
+  {
+    "theWord": "cannot",
+    "wTranslation": "არ შეუძლია"
+  },
+  {
+    "theWord": "car",
+    "wTranslation": "მანქანა"
+  },
+  {
+    "theWord": "card",
+    "wTranslation": "ბარათი"
+  },
+  {
+    "theWord": "career",
+    "wTranslation": "კარიერა"
+  },
+  {
+    "theWord": "case",
+    "wTranslation": "საქმე"
+  },
+  {
+    "theWord": "certain",
+    "wTranslation": "განსაზღვრული"
+  },
+  {
+    "theWord": "challenges",
+    "wTranslation": "გამოწვევები"
+  },
+  {
+    "theWord": "character",
+    "wTranslation": "პერსონაჟი"
+  },
+  {
+    "theWord": "chase",
+    "wTranslation": "დევნა"
+  },
+  {
+    "theWord": "cheap",
+    "wTranslation": "იაფი"
+  },
+  {
+    "theWord": "cheetos",
+    "wTranslation": "Cheetos"
+  },
+  {
+    "theWord": "circle",
+    "wTranslation": "წრე"
+  },
+  {
+    "theWord": "claim",
+    "wTranslation": "მოთხოვნა"
+  },
+  {
+    "theWord": "clothes",
+    "wTranslation": "ტანსაცმელი"
+  },
+  {
+    "theWord": "cognitive",
+    "wTranslation": "შემეცნებითი"
+  },
+  {
+    "theWord": "cognitively",
+    "wTranslation": "კოგნიტიურად"
+  },
+  {
+    "theWord": "college",
+    "wTranslation": "კოლეჯი"
+  },
+  {
+    "theWord": "come",
+    "wTranslation": "მოსვლა"
+  },
+  {
+    "theWord": "comes",
+    "wTranslation": "მოდის"
+  },
+  {
+    "theWord": "coming",
+    "wTranslation": "მომავალი"
+  },
+  {
+    "theWord": "communicate",
+    "wTranslation": "დაკავშირება"
+  },
+  {
+    "theWord": "completely",
+    "wTranslation": "სრულიად"
+  },
+  {
+    "theWord": "complicated",
+    "wTranslation": "რთული"
+  },
+  {
+    "theWord": "concrete",
+    "wTranslation": "ბეტონი"
+  },
+  {
+    "theWord": "concretized",
+    "wTranslation": "კონკრეტული"
+  },
+  {
+    "theWord": "confront",
+    "wTranslation": "დაპირისპირება"
+  },
+  {
+    "theWord": "confronts",
+    "wTranslation": "დაპირისპირება"
+  },
+  {
+    "theWord": "consequence",
+    "wTranslation": "შედეგი"
+  },
+  {
+    "theWord": "consider",
+    "wTranslation": "მიჩნევა"
+  },
+  {
+    "theWord": "constantly",
+    "wTranslation": "მუდამ"
+  },
+  {
+    "theWord": "constituted",
+    "wTranslation": "შედგენილია"
+  },
+  {
+    "theWord": "continue",
+    "wTranslation": "გაგრძელება"
+  },
+  {
+    "theWord": "continued",
+    "wTranslation": "გაგრძელებული"
+  },
+  {
+    "theWord": "conversant",
+    "wTranslation": "მასწავლებელი"
+  },
+  {
+    "theWord": "conversation",
+    "wTranslation": "საუბარი"
+  },
+  {
+    "theWord": "convert",
+    "wTranslation": "გარდაქმნა"
+  },
+  {
+    "theWord": "converting",
+    "wTranslation": "კონვერტირება"
+  },
+  {
+    "theWord": "could",
+    "wTranslation": "შეეძლო"
+  },
+  {
+    "theWord": "country",
+    "wTranslation": "ქვეყანა"
+  },
+  {
+    "theWord": "courage",
+    "wTranslation": "სიმამაცე"
+  },
+  {
+    "theWord": "court",
+    "wTranslation": "სასამართლო"
+  },
+  {
+    "theWord": "crossed",
+    "wTranslation": "ჯვარი"
+  },
+  {
+    "theWord": "crucial",
+    "wTranslation": "გადამწყვეტი"
+  },
+  {
+    "theWord": "culture",
+    "wTranslation": "კულტურა"
+  },
+  {
+    "theWord": "customers",
+    "wTranslation": "მომხმარებლები"
+  },
+  {
+    "theWord": "date",
+    "wTranslation": "თარიღი"
+  },
+  {
+    "theWord": "dating",
+    "wTranslation": "გაცნობა"
+  },
+  {
+    "theWord": "day",
+    "wTranslation": "დღეს"
+  },
+  {
+    "theWord": "days",
+    "wTranslation": "დღეები"
+  },
+  {
+    "theWord": "deal",
+    "wTranslation": "საქმე"
+  },
+  {
+    "theWord": "death",
+    "wTranslation": "სიკვდილი"
+  },
+  {
+    "theWord": "deeper",
+    "wTranslation": "ღრმა"
+  },
+  {
+    "theWord": "definition",
+    "wTranslation": "განმარტება"
+  },
+  {
+    "theWord": "depression",
+    "wTranslation": "დეპრესია"
+  },
+  {
+    "theWord": "described",
+    "wTranslation": "აღწერილი"
+  },
+  {
+    "theWord": "destination",
+    "wTranslation": "დანიშნულების ადგილი"
+  },
+  {
+    "theWord": "detached",
+    "wTranslation": "გამოსავალი"
+  },
+  {
+    "theWord": "develop",
+    "wTranslation": "განვითარება"
+  },
+  {
+    "theWord": "developing",
+    "wTranslation": "განვითარება"
+  },
+  {
+    "theWord": "did",
+    "wTranslation": "გაკეთებული"
+  },
+  {
+    "theWord": "didn't",
+    "wTranslation": "არა"
+  },
+  {
+    "theWord": "different",
+    "wTranslation": "განსხვავებული"
+  },
+  {
+    "theWord": "dinner",
+    "wTranslation": "ვახშამი"
+  },
+  {
+    "theWord": "directed",
+    "wTranslation": "მიმართულება"
+  },
+  {
+    "theWord": "disquiet",
+    "wTranslation": "ციური"
+  },
+  {
+    "theWord": "do",
+    "wTranslation": "კეთება"
+  },
+  {
+    "theWord": "doesn't",
+    "wTranslation": "არა"
+  },
+  {
+    "theWord": "domains",
+    "wTranslation": "დომენები"
+  },
+  {
+    "theWord": "don't",
+    "wTranslation": "არა"
+  },
+  {
+    "theWord": "done",
+    "wTranslation": "შესრულებულია"
+  },
+  {
+    "theWord": "door",
+    "wTranslation": "კარი"
+  },
+  {
+    "theWord": "dopamine",
+    "wTranslation": "დოფამინი"
+  },
+  {
+    "theWord": "down",
+    "wTranslation": "ძირს"
+  },
+  {
+    "theWord": "dragon",
+    "wTranslation": "დრაკონი"
+  },
+  {
+    "theWord": "dressed",
+    "wTranslation": "ჩაცმული"
+  },
+  {
+    "theWord": "drive",
+    "wTranslation": "მართვა"
+  },
+  {
+    "theWord": "driven",
+    "wTranslation": "მართული"
+  },
+  {
+    "theWord": "driver",
+    "wTranslation": "მძღოლი ქალი"
+  },
+  {
+    "theWord": "during",
+    "wTranslation": "განმავლობაში"
+  },
+  {
+    "theWord": "earlier",
+    "wTranslation": "ადრე"
+  },
+  {
+    "theWord": "easy",
+    "wTranslation": "ადვილი"
+  },
+  {
+    "theWord": "eating",
+    "wTranslation": "ჭამა"
+  },
+  {
+    "theWord": "educated",
+    "wTranslation": "განათლებული"
+  },
+  {
+    "theWord": "education",
+    "wTranslation": "განათლება"
+  },
+  {
+    "theWord": "eh",
+    "wTranslation": "ეჰ"
+  },
+  {
+    "theWord": "element",
+    "wTranslation": "ელემენტი"
+  },
+  {
+    "theWord": "else's",
+    "wTranslation": "სხვა"
+  },
+  {
+    "theWord": "embody",
+    "wTranslation": "იმპერაცია"
+  },
+  {
+    "theWord": "emboldened",
+    "wTranslation": "გამამხნევებელი"
+  },
+  {
+    "theWord": "emotion",
+    "wTranslation": "ემოცია"
+  },
+  {
+    "theWord": "emotional",
+    "wTranslation": "ემოციური"
+  },
+  {
+    "theWord": "emotions",
+    "wTranslation": "ემოციები"
+  },
+  {
+    "theWord": "empty",
+    "wTranslation": "ცარიელი"
+  },
+  {
+    "theWord": "end",
+    "wTranslation": "დასასრული"
+  },
+  {
+    "theWord": "engagement",
+    "wTranslation": "დანიშვნა"
+  },
+  {
+    "theWord": "engineer",
+    "wTranslation": "ინჟინერი"
+  },
+  {
+    "theWord": "entire",
+    "wTranslation": "მთელი"
+  },
+  {
+    "theWord": "evaluate",
+    "wTranslation": "შეფასება"
+  },
+  {
+    "theWord": "even",
+    "wTranslation": "-ც კი"
+  },
+  {
+    "theWord": "ever",
+    "wTranslation": "ოდესმე"
+  },
+  {
+    "theWord": "every",
+    "wTranslation": "თითოეული"
+  },
+  {
+    "theWord": "everything",
+    "wTranslation": "ყველაფერი"
+  },
+  {
+    "theWord": "exactly",
+    "wTranslation": "ზუსტად"
+  },
+  {
+    "theWord": "example",
+    "wTranslation": "მაგალითი"
+  },
+  {
+    "theWord": "exceed",
+    "wTranslation": "გადაჭარბება"
+  },
+  {
+    "theWord": "exercise",
+    "wTranslation": "სავარჯიშო"
+  },
+  {
+    "theWord": "expensive",
+    "wTranslation": "ძვირი"
+  },
+  {
+    "theWord": "experience",
+    "wTranslation": "გამოცდილება"
+  },
+  {
+    "theWord": "experienced",
+    "wTranslation": "გამოცდილი"
+  },
+  {
+    "theWord": "explained",
+    "wTranslation": "ახსნა"
+  },
+  {
+    "theWord": "explode",
+    "wTranslation": "აფეთქება"
+  },
+  {
+    "theWord": "face",
+    "wTranslation": "სახე"
+  },
+  {
+    "theWord": "fail",
+    "wTranslation": "მარცხის განცდა"
+  },
+  {
+    "theWord": "failure",
+    "wTranslation": "მარცხი"
+  },
+  {
+    "theWord": "faithless",
+    "wTranslation": "უღირსი"
+  },
+  {
+    "theWord": "fall",
+    "wTranslation": "დაცემა"
+  },
+  {
+    "theWord": "fallible",
+    "wTranslation": "უტყუარი"
+  },
+  {
+    "theWord": "familial",
+    "wTranslation": "ოჯახური"
+  },
+  {
+    "theWord": "fantasy",
+    "wTranslation": "ფანტაზია"
+  },
+  {
+    "theWord": "far",
+    "wTranslation": "შორს"
+  },
+  {
+    "theWord": "fashion",
+    "wTranslation": "მოდა"
+  },
+  {
+    "theWord": "fault",
+    "wTranslation": "ბრალი"
+  },
+  {
+    "theWord": "feel",
+    "wTranslation": "გრძნობა"
+  },
+  {
+    "theWord": "feeling",
+    "wTranslation": "გრძნობა"
+  },
+  {
+    "theWord": "feelings",
+    "wTranslation": "გრძნობები"
+  },
+  {
+    "theWord": "figure",
+    "wTranslation": "ფიგურა"
+  },
+  {
+    "theWord": "fill",
+    "wTranslation": "გავსება"
+  },
+  {
+    "theWord": "final",
+    "wTranslation": "ფინალი"
+  },
+  {
+    "theWord": "finally",
+    "wTranslation": "საბოლოოდ"
+  },
+  {
+    "theWord": "find",
+    "wTranslation": "პოვნა"
+  },
+  {
+    "theWord": "fingers",
+    "wTranslation": "თითები"
+  },
+  {
+    "theWord": "finish",
+    "wTranslation": "დასრულება"
+  },
+  {
+    "theWord": "first",
+    "wTranslation": "პირველი"
+  },
+  {
+    "theWord": "fit",
+    "wTranslation": "ჯდება"
+  },
+  {
+    "theWord": "five",
+    "wTranslation": "ხუთი"
+  },
+  {
+    "theWord": "flag",
+    "wTranslation": "დროშა"
+  },
+  {
+    "theWord": "fleeing",
+    "wTranslation": "გაქცევა"
+  },
+  {
+    "theWord": "for",
+    "wTranslation": "-თვის"
+  },
+  {
+    "theWord": "former",
+    "wTranslation": "ყოფილი"
+  },
+  {
+    "theWord": "forward",
+    "wTranslation": "წინ"
+  },
+  {
+    "theWord": "founded",
+    "wTranslation": "დაარსებული"
+  },
+  {
+    "theWord": "free",
+    "wTranslation": "უფასო"
+  },
+  {
+    "theWord": "freeze",
+    "wTranslation": "გაყინვა"
+  },
+  {
+    "theWord": "friend",
+    "wTranslation": "მეგობარო"
+  },
+  {
+    "theWord": "friends",
+    "wTranslation": "მეგობრები"
+  },
+  {
+    "theWord": "from",
+    "wTranslation": "-გან"
+  },
+  {
+    "theWord": "front",
+    "wTranslation": "წინა"
+  },
+  {
+    "theWord": "full",
+    "wTranslation": "სავსე"
+  },
+  {
+    "theWord": "fundamental",
+    "wTranslation": "ფუნდამენტალური"
+  },
+  {
+    "theWord": "generates",
+    "wTranslation": "წარმოიქმნება წარმოიქმნება"
+  },
+  {
+    "theWord": "genuinely",
+    "wTranslation": "ჭეშმარიტად"
+  },
+  {
+    "theWord": "george",
+    "wTranslation": "გიორგი"
+  },
+  {
+    "theWord": "get",
+    "wTranslation": "მიღება"
+  },
+  {
+    "theWord": "given",
+    "wTranslation": "მიცემა"
+  },
+  {
+    "theWord": "go",
+    "wTranslation": "წასვლა"
+  },
+  {
+    "theWord": "goal",
+    "wTranslation": "მიზანი"
+  },
+  {
+    "theWord": "goals",
+    "wTranslation": "მიზნები"
+  },
+  {
+    "theWord": "god",
+    "wTranslation": "ღმერთი"
+  },
+  {
+    "theWord": "goes",
+    "wTranslation": "მიდის"
+  },
+  {
+    "theWord": "going",
+    "wTranslation": "მიდის"
+  },
+  {
+    "theWord": "gold",
+    "wTranslation": "ოქრო"
+  },
+  {
+    "theWord": "gone",
+    "wTranslation": "წავიდა"
+  },
+  {
+    "theWord": "gonna",
+    "wTranslation": "gonna."
+  },
+  {
+    "theWord": "good",
+    "wTranslation": "კარგი"
+  },
+  {
+    "theWord": "gospel",
+    "wTranslation": "სახარება"
+  },
+  {
+    "theWord": "got",
+    "wTranslation": "GOT"
+  },
+  {
+    "theWord": "grad",
+    "wTranslation": "კრადალი"
+  },
+  {
+    "theWord": "great",
+    "wTranslation": "დიდი"
+  },
+  {
+    "theWord": "greeting",
+    "wTranslation": "მისალმება"
+  },
+  {
+    "theWord": "gross",
+    "wTranslation": "V"
+  },
+  {
+    "theWord": "ground",
+    "wTranslation": "მიწა"
+  },
+  {
+    "theWord": "group",
+    "wTranslation": "ჯგუფი"
+  },
+  {
+    "theWord": "guy",
+    "wTranslation": "ბიჭი"
+  },
+  {
+    "theWord": "had",
+    "wTranslation": "ქონა"
+  },
+  {
+    "theWord": "hallmark",
+    "wTranslation": "დაარღვია"
+  },
+  {
+    "theWord": "halt",
+    "wTranslation": "შეჩერებული"
+  },
+  {
+    "theWord": "hand",
+    "wTranslation": "ხელი"
+  },
+  {
+    "theWord": "happened",
+    "wTranslation": "მოხდა"
+  },
+  {
+    "theWord": "happy",
+    "wTranslation": "ბედნიერი"
+  },
+  {
+    "theWord": "has",
+    "wTranslation": "აქვს"
+  },
+  {
+    "theWord": "have",
+    "wTranslation": "ყოლა"
+  },
+  {
+    "theWord": "he",
+    "wTranslation": "ის"
+  },
+  {
+    "theWord": "headed",
+    "wTranslation": "ხელმძღვანელობით"
+  },
+  {
+    "theWord": "healthy",
+    "wTranslation": "ჯანმრთელი"
+  },
+  {
+    "theWord": "hear",
+    "wTranslation": "გაგონება"
+  },
+  {
+    "theWord": "help",
+    "wTranslation": "დახმარება"
+  },
+  {
+    "theWord": "helpful",
+    "wTranslation": "სასარგებლო"
+  },
+  {
+    "theWord": "her",
+    "wTranslation": "მისი"
+  },
+  {
+    "theWord": "here",
+    "wTranslation": "აქ"
+  },
+  {
+    "theWord": "here's",
+    "wTranslation": "აქ არის"
+  },
+  {
+    "theWord": "hero",
+    "wTranslation": "გმირი"
+  },
+  {
+    "theWord": "high",
+    "wTranslation": "მაღალი"
+  },
+  {
+    "theWord": "higher",
+    "wTranslation": "უფრო მაღალი"
+  },
+  {
+    "theWord": "highest",
+    "wTranslation": "ყველაზე მაღალი"
+  },
+  {
+    "theWord": "hobbies",
+    "wTranslation": "ჰობი"
+  },
+  {
+    "theWord": "hold",
+    "wTranslation": "ჭერა"
+  },
+  {
+    "theWord": "hole",
+    "wTranslation": "ნახვრეტი"
+  },
+  {
+    "theWord": "honesty",
+    "wTranslation": "პატიოსნება"
+  },
+  {
+    "theWord": "house",
+    "wTranslation": "სახლი"
+  },
+  {
+    "theWord": "how",
+    "wTranslation": "როგორ"
+  },
+  {
+    "theWord": "hurting",
+    "wTranslation": "სანდო"
+  },
+  {
+    "theWord": "hypothetically",
+    "wTranslation": "ჰიპოთეტურად"
+  },
+  {
+    "theWord": "i",
+    "wTranslation": "მე"
+  },
+  {
+    "theWord": "i'd",
+    "wTranslation": "მე"
+  },
+  {
+    "theWord": "i'll",
+    "wTranslation": "მე"
+  },
+  {
+    "theWord": "i'm",
+    "wTranslation": "მე ვარ"
+  },
+  {
+    "theWord": "i've",
+    "wTranslation": "მე"
+  },
+  {
+    "theWord": "idea",
+    "wTranslation": "იდეა"
+  },
+  {
+    "theWord": "identify",
+    "wTranslation": "იდისობა"
+  },
+  {
+    "theWord": "identity",
+    "wTranslation": "იდენტურობა"
+  },
+  {
+    "theWord": "if",
+    "wTranslation": "თუ"
+  },
+  {
+    "theWord": "imagine",
+    "wTranslation": "წარმოდგენა"
+  },
+  {
+    "theWord": "imagining",
+    "wTranslation": "წარმოსახვა"
+  },
+  {
+    "theWord": "immediately",
+    "wTranslation": "დაუყოვნებლივ"
+  },
+  {
+    "theWord": "immobility",
+    "wTranslation": "უძრავი"
+  },
+  {
+    "theWord": "important",
+    "wTranslation": "მნიშვნელოვანი"
+  },
+  {
+    "theWord": "improve",
+    "wTranslation": "გაუმჯობესება"
+  },
+  {
+    "theWord": "in",
+    "wTranslation": "-ში"
+  },
+  {
+    "theWord": "indicate",
+    "wTranslation": "ჩვენება"
+  },
+  {
+    "theWord": "infinitely",
+    "wTranslation": "უსასრულოდ"
+  },
+  {
+    "theWord": "inflation",
+    "wTranslation": "ინფლაცია"
+  },
+  {
+    "theWord": "info",
+    "wTranslation": "ინფორმაცია"
+  },
+  {
+    "theWord": "input",
+    "wTranslation": "მიწოდება"
+  },
+  {
+    "theWord": "integrate",
+    "wTranslation": "ინტეგრირება"
+  },
+  {
+    "theWord": "interlude",
+    "wTranslation": "ჩარევა"
+  },
+  {
+    "theWord": "into",
+    "wTranslation": "-ში"
+  },
+  {
+    "theWord": "ira",
+    "wTranslation": "IRA"
+  },
+  {
+    "theWord": "iras",
+    "wTranslation": "IRS"
+  },
+  {
+    "theWord": "is",
+    "wTranslation": "არის"
+  },
+  {
+    "theWord": "isn't",
+    "wTranslation": "არ არის"
+  },
+  {
+    "theWord": "issue",
+    "wTranslation": "პრობლემა"
+  },
+  {
+    "theWord": "it",
+    "wTranslation": "ის"
+  },
+  {
+    "theWord": "it's",
+    "wTranslation": "ეს არის"
+  },
+  {
+    "theWord": "itself",
+    "wTranslation": "თვითონ"
+  },
+  {
+    "theWord": "jail",
+    "wTranslation": "ციხე"
+  },
+  {
+    "theWord": "jargon",
+    "wTranslation": "ჟარგონი"
+  },
+  {
+    "theWord": "jobber",
+    "wTranslation": "ჯობბერი"
+  },
+  {
+    "theWord": "john",
+    "wTranslation": "ჯონ"
+  },
+  {
+    "theWord": "jordan",
+    "wTranslation": "იორდანია"
+  },
+  {
+    "theWord": "journey",
+    "wTranslation": "მოგზაურობა"
+  },
+  {
+    "theWord": "judge",
+    "wTranslation": "მოსამართლე"
+  },
+  {
+    "theWord": "jungian",
+    "wTranslation": "იუნგიანი"
+  },
+  {
+    "theWord": "just",
+    "wTranslation": "უბრალოდ"
+  },
+  {
+    "theWord": "justice",
+    "wTranslation": "სამართლიანობა"
+  },
+  {
+    "theWord": "keep",
+    "wTranslation": "შენახვა"
+  },
+  {
+    "theWord": "kids",
+    "wTranslation": "ბავშვები"
+  },
+  {
+    "theWord": "kind",
+    "wTranslation": "კეთილი"
+  },
+  {
+    "theWord": "kit",
+    "wTranslation": "ნაკრები"
+  },
+  {
+    "theWord": "knock",
+    "wTranslation": "კაკუნი"
+  },
+  {
+    "theWord": "know",
+    "wTranslation": "ვიცი"
+  },
+  {
+    "theWord": "lack",
+    "wTranslation": "ნაკლებობა"
+  },
+  {
+    "theWord": "lay",
+    "wTranslation": "ჩ იგი"
+  },
+  {
+    "theWord": "lead",
+    "wTranslation": "ლოტი"
+  },
+  {
+    "theWord": "leadership",
+    "wTranslation": "ხელმძღვანელობა"
+  },
+  {
+    "theWord": "learning",
+    "wTranslation": "სწავლა"
+  },
+  {
+    "theWord": "leaves",
+    "wTranslation": "ფოთლები"
+  },
+  {
+    "theWord": "let",
+    "wTranslation": "გაშვება"
+  },
+  {
+    "theWord": "let's",
+    "wTranslation": "მოდით"
+  },
+  {
+    "theWord": "level",
+    "wTranslation": "დონე"
+  },
+  {
+    "theWord": "life",
+    "wTranslation": "სიცოცხლე"
+  },
+  {
+    "theWord": "like",
+    "wTranslation": "როგორც"
+  },
+  {
+    "theWord": "line",
+    "wTranslation": "ხაზი"
+  },
+  {
+    "theWord": "long",
+    "wTranslation": "გრძელი"
+  },
+  {
+    "theWord": "longer",
+    "wTranslation": "გრძელი"
+  },
+  {
+    "theWord": "look",
+    "wTranslation": "შეხედვა"
+  },
+  {
+    "theWord": "loosely",
+    "wTranslation": "თავისუფლად"
+  },
+  {
+    "theWord": "lose",
+    "wTranslation": "წაგება"
+  },
+  {
+    "theWord": "lot",
+    "wTranslation": "ბევრი"
+  },
+  {
+    "theWord": "lunch",
+    "wTranslation": "ლანჩი"
+  },
+  {
+    "theWord": "mad",
+    "wTranslation": "შეშლილი"
+  },
+  {
+    "theWord": "made",
+    "wTranslation": "გაკეთებული"
+  },
+  {
+    "theWord": "make",
+    "wTranslation": "გააკეთოს"
+  },
+  {
+    "theWord": "makes",
+    "wTranslation": "ქმნის"
+  },
+  {
+    "theWord": "making",
+    "wTranslation": "დამზადება"
+  },
+  {
+    "theWord": "man",
+    "wTranslation": "მამაკაცი"
+  },
+  {
+    "theWord": "managed",
+    "wTranslation": "მართვა"
+  },
+  {
+    "theWord": "manifest",
+    "wTranslation": "აშკარა"
+  },
+  {
+    "theWord": "manner",
+    "wTranslation": "ხერხი"
+  },
+  {
+    "theWord": "many",
+    "wTranslation": "ბევრი"
+  },
+  {
+    "theWord": "marathon",
+    "wTranslation": "მარათონი"
+  },
+  {
+    "theWord": "marriage",
+    "wTranslation": "ქორწინება"
+  },
+  {
+    "theWord": "maybe",
+    "wTranslation": "შესაძლოა"
+  },
+  {
+    "theWord": "me",
+    "wTranslation": "მე"
+  },
+  {
+    "theWord": "meal",
+    "wTranslation": "საჭმელი"
+  },
+  {
+    "theWord": "mean",
+    "wTranslation": "ბოროტი"
+  },
+  {
+    "theWord": "means",
+    "wTranslation": "საშუალებები"
+  },
+  {
+    "theWord": "mechanics",
+    "wTranslation": "მექანიკა"
+  },
+  {
+    "theWord": "meditative",
+    "wTranslation": "მედიტაციური"
+  },
+  {
+    "theWord": "mentor",
+    "wTranslation": "მასწავლებელი ქალი"
+  },
+  {
+    "theWord": "metals",
+    "wTranslation": "ლითონები"
+  },
+  {
+    "theWord": "metaphysical",
+    "wTranslation": "მეტაფიზიკური"
+  },
+  {
+    "theWord": "micro",
+    "wTranslation": "მიკრო"
+  },
+  {
+    "theWord": "midterms",
+    "wTranslation": "შუალედები"
+  },
+  {
+    "theWord": "might",
+    "wTranslation": "ძალა"
+  },
+  {
+    "theWord": "mine",
+    "wTranslation": "ჩემი"
+  },
+  {
+    "theWord": "minute",
+    "wTranslation": "წვრილი"
+  },
+  {
+    "theWord": "miss",
+    "wTranslation": "მონატრება"
+  },
+  {
+    "theWord": "modified",
+    "wTranslation": "განახლდა"
+  },
+  {
+    "theWord": "mom",
+    "wTranslation": "დედა"
+  },
+  {
+    "theWord": "money",
+    "wTranslation": "ფული"
+  },
+  {
+    "theWord": "more",
+    "wTranslation": "მეტი"
+  },
+  {
+    "theWord": "morning",
+    "wTranslation": "დილა"
+  },
+  {
+    "theWord": "most",
+    "wTranslation": "ყველაზე მეტი"
+  },
+  {
+    "theWord": "motivate",
+    "wTranslation": "მოტივაცია"
+  },
+  {
+    "theWord": "movie",
+    "wTranslation": "ფილმი"
+  },
+  {
+    "theWord": "moving",
+    "wTranslation": "მოძრაობა"
+  },
+  {
+    "theWord": "much",
+    "wTranslation": "ბევრი"
+  },
+  {
+    "theWord": "multi-multi-millionaire",
+    "wTranslation": "მულტი-მილიონერი"
+  },
+  {
+    "theWord": "music",
+    "wTranslation": "მუსიკა"
+  },
+  {
+    "theWord": "my",
+    "wTranslation": "ჩემი"
+  },
+  {
+    "theWord": "myself",
+    "wTranslation": "თვითონ"
+  },
+  {
+    "theWord": "nailed",
+    "wTranslation": "ფრჩხილები"
+  },
+  {
+    "theWord": "necessity",
+    "wTranslation": "აუცილებლობა"
+  },
+  {
+    "theWord": "need",
+    "wTranslation": "საჭიროება"
+  },
+  {
+    "theWord": "needed",
+    "wTranslation": "საჭირო"
+  },
+  {
+    "theWord": "needs",
+    "wTranslation": "საჭიროებები"
+  },
+  {
+    "theWord": "negative",
+    "wTranslation": "უარყოფითი"
+  },
+  {
+    "theWord": "negotiating",
+    "wTranslation": "მოლაპარაკება"
+  },
+  {
+    "theWord": "next",
+    "wTranslation": "შემდეგი"
+  },
+  {
+    "theWord": "nice",
+    "wTranslation": "კარგი"
+  },
+  {
+    "theWord": "nights",
+    "wTranslation": "ღამეები"
+  },
+  {
+    "theWord": "no",
+    "wTranslation": "არა"
+  },
+  {
+    "theWord": "nobody",
+    "wTranslation": "არავინ"
+  },
+  {
+    "theWord": "not",
+    "wTranslation": "არა"
+  },
+  {
+    "theWord": "nothing",
+    "wTranslation": "არაფერი"
+  },
+  {
+    "theWord": "now",
+    "wTranslation": "ახლა"
+  },
+  {
+    "theWord": "number",
+    "wTranslation": "რიცხვი"
+  },
+  {
+    "theWord": "objections",
+    "wTranslation": "წინააღმდეგობები"
+  },
+  {
+    "theWord": "obsessed",
+    "wTranslation": "შეპყრობილი"
+  },
+  {
+    "theWord": "of",
+    "wTranslation": "*"
+  },
+  {
+    "theWord": "often",
+    "wTranslation": "ხშირად"
+  },
+  {
+    "theWord": "oh",
+    "wTranslation": "ოჰ"
+  },
+  {
+    "theWord": "okay",
+    "wTranslation": "კარგი"
+  },
+  {
+    "theWord": "old",
+    "wTranslation": "მოხუცი"
+  },
+  {
+    "theWord": "on",
+    "wTranslation": "-ზე"
+  },
+  {
+    "theWord": "once",
+    "wTranslation": "ერთხელ"
+  },
+  {
+    "theWord": "one",
+    "wTranslation": "ერთი"
+  },
+  {
+    "theWord": "only",
+    "wTranslation": "მხოლოდ"
+  },
+  {
+    "theWord": "opaque",
+    "wTranslation": "გაუმჭვირვალე"
+  },
+  {
+    "theWord": "open",
+    "wTranslation": "გახსნა"
+  },
+  {
+    "theWord": "or",
+    "wTranslation": "ან"
+  },
+  {
+    "theWord": "order",
+    "wTranslation": "შეკვეთა"
+  },
+  {
+    "theWord": "other",
+    "wTranslation": "სხვა"
+  },
+  {
+    "theWord": "our",
+    "wTranslation": "ჩვენი"
+  },
+  {
+    "theWord": "out",
+    "wTranslation": "გარეთ"
+  },
+  {
+    "theWord": "outside",
+    "wTranslation": "გარე"
+  },
+  {
+    "theWord": "over",
+    "wTranslation": "-ზე"
+  },
+  {
+    "theWord": "own",
+    "wTranslation": "საკუთარი"
+  },
+  {
+    "theWord": "particularized",
+    "wTranslation": "ასახული"
+  },
+  {
+    "theWord": "partner",
+    "wTranslation": "პარტნიორი ქალი"
+  },
+  {
+    "theWord": "people",
+    "wTranslation": "ხალხი"
+  },
+  {
+    "theWord": "per",
+    "wTranslation": "საშუალებით"
+  },
+  {
+    "theWord": "perception",
+    "wTranslation": "აღქმა"
+  },
+  {
+    "theWord": "permanent",
+    "wTranslation": "მუდმივი"
+  },
+  {
+    "theWord": "person",
+    "wTranslation": "პირი"
+  },
+  {
+    "theWord": "pharmacologically",
+    "wTranslation": "ფარმაკოლოგიურად"
+  },
+  {
+    "theWord": "phd",
+    "wTranslation": "რაიონი"
+  },
+  {
+    "theWord": "pick",
+    "wTranslation": "წერაქვი"
+  },
+  {
+    "theWord": "picture",
+    "wTranslation": "სურათი"
+  },
+  {
+    "theWord": "plan",
+    "wTranslation": "გეგმა"
+  },
+  {
+    "theWord": "planet",
+    "wTranslation": "პლანეტა"
+  },
+  {
+    "theWord": "please",
+    "wTranslation": "მინიჭება"
+  },
+  {
+    "theWord": "plus",
+    "wTranslation": "პლუსი"
+  },
+  {
+    "theWord": "pointing",
+    "wTranslation": "აღნიშვნა"
+  },
+  {
+    "theWord": "politician",
+    "wTranslation": "პოლიტიკოსი"
+  },
+  {
+    "theWord": "politics",
+    "wTranslation": "პოლიტიკა"
+  },
+  {
+    "theWord": "positive",
+    "wTranslation": "დადებითი"
+  },
+  {
+    "theWord": "practice",
+    "wTranslation": "პრაქტიკა"
+  },
+  {
+    "theWord": "precious",
+    "wTranslation": "ძვირფასი"
+  },
+  {
+    "theWord": "precondition",
+    "wTranslation": "წინასწარი პირობა"
+  },
+  {
+    "theWord": "preconditions",
+    "wTranslation": "წინაპირობები"
+  },
+  {
+    "theWord": "president",
+    "wTranslation": "პრეზიდენტი"
+  },
+  {
+    "theWord": "probability",
+    "wTranslation": "ალბათობა"
+  },
+  {
+    "theWord": "probably",
+    "wTranslation": "ალბათ"
+  },
+  {
+    "theWord": "problem",
+    "wTranslation": "პრობლემა"
+  },
+  {
+    "theWord": "problems",
+    "wTranslation": "პრობლემები"
+  },
+  {
+    "theWord": "process",
+    "wTranslation": "პროცესი"
+  },
+  {
+    "theWord": "processes",
+    "wTranslation": "პროცესები"
+  },
+  {
+    "theWord": "professional",
+    "wTranslation": "პროფესიული"
+  },
+  {
+    "theWord": "professor",
+    "wTranslation": "პროფესორი"
+  },
+  {
+    "theWord": "profound",
+    "wTranslation": "ღრმა"
+  },
+  {
+    "theWord": "program",
+    "wTranslation": "პროგრამა"
+  },
+  {
+    "theWord": "progress",
+    "wTranslation": "პროგრესი"
+  },
+  {
+    "theWord": "protect",
+    "wTranslation": "დაცვა"
+  },
+  {
+    "theWord": "protecting",
+    "wTranslation": "დაცვა"
+  },
+  {
+    "theWord": "psychology",
+    "wTranslation": "ფსიქოლოგია"
+  },
+  {
+    "theWord": "pull",
+    "wTranslation": "დაჭერა"
+  },
+  {
+    "theWord": "pursue",
+    "wTranslation": "დევნა"
+  },
+  {
+    "theWord": "pursuing",
+    "wTranslation": "დევნა"
+  },
+  {
+    "theWord": "put",
+    "wTranslation": "დადება"
+  },
+  {
+    "theWord": "question",
+    "wTranslation": "კითხვა"
+  },
+  {
+    "theWord": "questions",
+    "wTranslation": "კითხვები"
+  },
+  {
+    "theWord": "quite",
+    "wTranslation": "სავსებით"
+  },
+  {
+    "theWord": "rabbit",
+    "wTranslation": "შინაური კურდღელი"
+  },
+  {
+    "theWord": "rapid",
+    "wTranslation": "სწრაფი"
+  },
+  {
+    "theWord": "rarely",
+    "wTranslation": "იშვიათად"
+  },
+  {
+    "theWord": "rather",
+    "wTranslation": "ცოტათი"
+  },
+  {
+    "theWord": "rating",
+    "wTranslation": "რეიტინგი"
+  },
+  {
+    "theWord": "reacts",
+    "wTranslation": "რეაგირება"
+  },
+  {
+    "theWord": "read",
+    "wTranslation": "კითხვა"
+  },
+  {
+    "theWord": "real",
+    "wTranslation": "ნამდვილი"
+  },
+  {
+    "theWord": "realized",
+    "wTranslation": "რეალიზებული"
+  },
+  {
+    "theWord": "realizing",
+    "wTranslation": "გაცნობიერება"
+  },
+  {
+    "theWord": "really",
+    "wTranslation": "ნამდვილად"
+  },
+  {
+    "theWord": "reason",
+    "wTranslation": "მიზეზი"
+  },
+  {
+    "theWord": "receive",
+    "wTranslation": "მიღება"
+  },
+  {
+    "theWord": "reckless",
+    "wTranslation": "უგუნური"
+  },
+  {
+    "theWord": "record",
+    "wTranslation": "რეკორდი"
+  },
+  {
+    "theWord": "red",
+    "wTranslation": "წითელი"
+  },
+  {
+    "theWord": "reevaluate",
+    "wTranslation": "გადახედვა"
+  },
+  {
+    "theWord": "regale",
+    "wTranslation": "წელოვანი"
+  },
+  {
+    "theWord": "relationship",
+    "wTranslation": "ურთიერთობა"
+  },
+  {
+    "theWord": "religious",
+    "wTranslation": "რელიგიური"
+  },
+  {
+    "theWord": "remember",
+    "wTranslation": "დამახსოვრება"
+  },
+  {
+    "theWord": "resources",
+    "wTranslation": "რესურსები"
+  },
+  {
+    "theWord": "responsibilities",
+    "wTranslation": "პასუხისმგებლობები"
+  },
+  {
+    "theWord": "restaurant",
+    "wTranslation": "რესტორანი"
+  },
+  {
+    "theWord": "reverse",
+    "wTranslation": "რევერს"
+  },
+  {
+    "theWord": "reward",
+    "wTranslation": "ჯილდო"
+  },
+  {
+    "theWord": "right",
+    "wTranslation": "სწორი"
+  },
+  {
+    "theWord": "risks",
+    "wTranslation": "რისკები"
+  },
+  {
+    "theWord": "romantic",
+    "wTranslation": "რომანტიკული"
+  },
+  {
+    "theWord": "rudderless",
+    "wTranslation": "უხეშად"
+  },
+  {
+    "theWord": "ruined",
+    "wTranslation": "დანგრეული"
+  },
+  {
+    "theWord": "run",
+    "wTranslation": "სირბილი"
+  },
+  {
+    "theWord": "running",
+    "wTranslation": "სირბილი"
+  },
+  {
+    "theWord": "rush",
+    "wTranslation": "იერიში"
+  },
+  {
+    "theWord": "said",
+    "wTranslation": "განაცხადა"
+  },
+  {
+    "theWord": "saint",
+    "wTranslation": "წმიდა"
+  },
+  {
+    "theWord": "sat",
+    "wTranslation": "იჯდა"
+  },
+  {
+    "theWord": "satiation",
+    "wTranslation": "გაჯანსაღება"
+  },
+  {
+    "theWord": "savings",
+    "wTranslation": "დანაზოგი"
+  },
+  {
+    "theWord": "say",
+    "wTranslation": "თქმა"
+  },
+  {
+    "theWord": "saying",
+    "wTranslation": "მოს s მოსულ"
+  },
+  {
+    "theWord": "school",
+    "wTranslation": "სკოლა"
+  },
+  {
+    "theWord": "screw",
+    "wTranslation": "ხრახნი"
+  },
+  {
+    "theWord": "search",
+    "wTranslation": "ძებნა"
+  },
+  {
+    "theWord": "see",
+    "wTranslation": "ნახვა"
+  },
+  {
+    "theWord": "seeing",
+    "wTranslation": "დანახვა"
+  },
+  {
+    "theWord": "seek",
+    "wTranslation": "ძებნა"
+  },
+  {
+    "theWord": "seems",
+    "wTranslation": "როგორც ჩანს"
+  },
+  {
+    "theWord": "senior",
+    "wTranslation": "უფროსი"
+  },
+  {
+    "theWord": "sense",
+    "wTranslation": "გრძნობა"
+  },
+  {
+    "theWord": "sentence",
+    "wTranslation": "სასჯელი"
+  },
+  {
+    "theWord": "sentencing",
+    "wTranslation": "სასჯელი"
+  },
+  {
+    "theWord": "separate",
+    "wTranslation": "ცალკე"
+  },
+  {
+    "theWord": "serious",
+    "wTranslation": "სერიოზული"
+  },
+  {
+    "theWord": "set",
+    "wTranslation": "კომპლექტი"
+  },
+  {
+    "theWord": "shared",
+    "wTranslation": "გაზიარებული"
+  },
+  {
+    "theWord": "she",
+    "wTranslation": "ის"
+  },
+  {
+    "theWord": "sheltered",
+    "wTranslation": "თავშესაფარი"
+  },
+  {
+    "theWord": "should",
+    "wTranslation": "უნდა"
+  },
+  {
+    "theWord": "shy",
+    "wTranslation": "მორცხვი"
+  },
+  {
+    "theWord": "sick",
+    "wTranslation": "ავადმყოფი"
+  },
+  {
+    "theWord": "significant",
+    "wTranslation": "მნიშვნელოვანი"
+  },
+  {
+    "theWord": "silver",
+    "wTranslation": "ვერცხლი"
+  },
+  {
+    "theWord": "simply",
+    "wTranslation": "უბრალოდ"
+  },
+  {
+    "theWord": "single",
+    "wTranslation": "მარტოხელა"
+  },
+  {
+    "theWord": "sit",
+    "wTranslation": "ჯდომა"
+  },
+  {
+    "theWord": "sitting",
+    "wTranslation": "სხდომა"
+  },
+  {
+    "theWord": "sketch",
+    "wTranslation": "ესკიზი"
+  },
+  {
+    "theWord": "so",
+    "wTranslation": "ისე"
+  },
+  {
+    "theWord": "some",
+    "wTranslation": "ზოგიერთი"
+  },
+  {
+    "theWord": "somebody",
+    "wTranslation": "ვიღაც"
+  },
+  {
+    "theWord": "somebody's",
+    "wTranslation": "ვიღაც"
+  },
+  {
+    "theWord": "someone",
+    "wTranslation": "ვიღაც"
+  },
+  {
+    "theWord": "something",
+    "wTranslation": "რაღაც"
+  },
+  {
+    "theWord": "somewhat",
+    "wTranslation": "ცოტაოდენ"
+  },
+  {
+    "theWord": "space",
+    "wTranslation": "კოსმოსი"
+  },
+  {
+    "theWord": "specialists",
+    "wTranslation": "სპეციალისტები"
+  },
+  {
+    "theWord": "specify",
+    "wTranslation": "დაზუსტება"
+  },
+  {
+    "theWord": "spend",
+    "wTranslation": "დახარჯვა"
+  },
+  {
+    "theWord": "spending",
+    "wTranslation": "ხარჯვა"
+  },
+  {
+    "theWord": "start",
+    "wTranslation": "დასაწყისი"
+  },
+  {
+    "theWord": "state",
+    "wTranslation": "სახელმწიფო"
+  },
+  {
+    "theWord": "statement",
+    "wTranslation": "განცხადება"
+  },
+  {
+    "theWord": "still",
+    "wTranslation": "ისევ"
+  },
+  {
+    "theWord": "stomach",
+    "wTranslation": "კუჭი"
+  },
+  {
+    "theWord": "stops",
+    "wTranslation": "ჩერდება"
+  },
+  {
+    "theWord": "structure",
+    "wTranslation": "სტრუქტურა"
+  },
+  {
+    "theWord": "student",
+    "wTranslation": "სტუდენტი"
+  },
+  {
+    "theWord": "stuff",
+    "wTranslation": "ნივთი"
+  },
+  {
+    "theWord": "stupid",
+    "wTranslation": "სულელი"
+  },
+  {
+    "theWord": "succeed",
+    "wTranslation": "წარმატება"
+  },
+  {
+    "theWord": "succeeded",
+    "wTranslation": "წარმატებას მიაღწია"
+  },
+  {
+    "theWord": "successful",
+    "wTranslation": "წარმატებული"
+  },
+  {
+    "theWord": "suddenly",
+    "wTranslation": "მოულოდნელად"
+  },
+  {
+    "theWord": "summarize",
+    "wTranslation": "შეჯამება"
+  },
+  {
+    "theWord": "table",
+    "wTranslation": "მაგიდა"
+  },
+  {
+    "theWord": "talk",
+    "wTranslation": "საუბარი"
+  },
+  {
+    "theWord": "talked",
+    "wTranslation": "ლაპარაკობდა"
+  },
+  {
+    "theWord": "tax",
+    "wTranslation": "გადასახადი"
+  },
+  {
+    "theWord": "taxes",
+    "wTranslation": "გადასახადები"
+  },
+  {
+    "theWord": "techniques",
+    "wTranslation": "ტექნიკა"
+  },
+  {
+    "theWord": "tell",
+    "wTranslation": "თქმა"
+  },
+  {
+    "theWord": "telling",
+    "wTranslation": "თქმა"
+  },
+  {
+    "theWord": "terms",
+    "wTranslation": "ვადები"
+  },
+  {
+    "theWord": "terrible",
+    "wTranslation": "საშინელი"
+  },
+  {
+    "theWord": "testified",
+    "wTranslation": "გამოსცა"
+  },
+  {
+    "theWord": "text",
+    "wTranslation": "ტექსტი"
+  },
+  {
+    "theWord": "than",
+    "wTranslation": "ვიდრე"
+  },
+  {
+    "theWord": "thank",
+    "wTranslation": "მადლობა"
+  },
+  {
+    "theWord": "that",
+    "wTranslation": "ის"
+  },
+  {
+    "theWord": "that's",
+    "wTranslation": "ეს არის"
+  },
+  {
+    "theWord": "the",
+    "wTranslation": "განსაზღვრული არ"
+  },
+  {
+    "theWord": "their",
+    "wTranslation": "მათი"
+  },
+  {
+    "theWord": "them",
+    "wTranslation": "მათ"
+  },
+  {
+    "theWord": "themself",
+    "wTranslation": "მათ თვითონ"
+  },
+  {
+    "theWord": "then",
+    "wTranslation": "მაშინ"
+  },
+  {
+    "theWord": "theological",
+    "wTranslation": "თეოლოგიური"
+  },
+  {
+    "theWord": "therapeutic",
+    "wTranslation": "თერაპიული"
+  },
+  {
+    "theWord": "there",
+    "wTranslation": "იქ"
+  },
+  {
+    "theWord": "there's",
+    "wTranslation": "იქ არის"
+  },
+  {
+    "theWord": "these",
+    "wTranslation": "ეს"
+  },
+  {
+    "theWord": "they",
+    "wTranslation": "ისინი"
+  },
+  {
+    "theWord": "they're",
+    "wTranslation": "ისინი არიან"
+  },
+  {
+    "theWord": "thing",
+    "wTranslation": "ნივთი"
+  },
+  {
+    "theWord": "things",
+    "wTranslation": "რამ"
+  },
+  {
+    "theWord": "think",
+    "wTranslation": "ფიქრი"
+  },
+  {
+    "theWord": "thinking",
+    "wTranslation": "ფიქრი"
+  },
+  {
+    "theWord": "this",
+    "wTranslation": "ეს"
+  },
+  {
+    "theWord": "those",
+    "wTranslation": "ისინი"
+  },
+  {
+    "theWord": "thought",
+    "wTranslation": "აზრი"
+  },
+  {
+    "theWord": "thousands",
+    "wTranslation": "ათასობით"
+  },
+  {
+    "theWord": "three",
+    "wTranslation": "სამი"
+  },
+  {
+    "theWord": "through",
+    "wTranslation": "-ით"
+  },
+  {
+    "theWord": "time",
+    "wTranslation": "დრო"
+  },
+  {
+    "theWord": "times",
+    "wTranslation": "დრო"
+  },
+  {
+    "theWord": "to",
+    "wTranslation": "-მდე"
+  },
+  {
+    "theWord": "today",
+    "wTranslation": "დღეს"
+  },
+  {
+    "theWord": "too",
+    "wTranslation": "ძალიან"
+  },
+  {
+    "theWord": "towards",
+    "wTranslation": "მიმართ"
+  },
+  {
+    "theWord": "track",
+    "wTranslation": "მიკვლევა"
+  },
+  {
+    "theWord": "transformation",
+    "wTranslation": "ტრანსფორმაცია"
+  },
+  {
+    "theWord": "tried",
+    "wTranslation": "გასინჯე"
+  },
+  {
+    "theWord": "truly",
+    "wTranslation": "ნამდვილად"
+  },
+  {
+    "theWord": "trust",
+    "wTranslation": "ნდობა"
+  },
+  {
+    "theWord": "truth",
+    "wTranslation": "სიმართლე"
+  },
+  {
+    "theWord": "truth-telling",
+    "wTranslation": "სიმართლე"
+  },
+  {
+    "theWord": "try",
+    "wTranslation": "ცდა"
+  },
+  {
+    "theWord": "trying",
+    "wTranslation": "ცდილობენ"
+  },
+  {
+    "theWord": "two",
+    "wTranslation": "ორი"
+  },
+  {
+    "theWord": "uh",
+    "wTranslation": "უჰ"
+  },
+  {
+    "theWord": "um",
+    "wTranslation": "უმ"
+  },
+  {
+    "theWord": "uncomfortable",
+    "wTranslation": "მყუდროებას მოკლებული"
+  },
+  {
+    "theWord": "underneath",
+    "wTranslation": "ქვეშ"
+  },
+  {
+    "theWord": "undoubtedly",
+    "wTranslation": "ეჭვგარეშეა"
+  },
+  {
+    "theWord": "unfold",
+    "wTranslation": "გაშლა"
+  },
+  {
+    "theWord": "unity",
+    "wTranslation": "ერთიანობა"
+  },
+  {
+    "theWord": "unless",
+    "wTranslation": "მანამდე"
+  },
+  {
+    "theWord": "unsure",
+    "wTranslation": "არასაიმედო"
+  },
+  {
+    "theWord": "until",
+    "wTranslation": "მანამდე"
+  },
+  {
+    "theWord": "up",
+    "wTranslation": "ზევით"
+  },
+  {
+    "theWord": "updated",
+    "wTranslation": "განახლებული"
+  },
+  {
+    "theWord": "use",
+    "wTranslation": "სარგებლობა"
+  },
+  {
+    "theWord": "used",
+    "wTranslation": "გამოყენებული"
+  },
+  {
+    "theWord": "valuable",
+    "wTranslation": "ძვირფასი"
+  },
+  {
+    "theWord": "valued",
+    "wTranslation": "ღირებული"
+  },
+  {
+    "theWord": "versions",
+    "wTranslation": "ვერსიები"
+  },
+  {
+    "theWord": "very",
+    "wTranslation": "ძალიან"
+  },
+  {
+    "theWord": "vice",
+    "wTranslation": "ვიცე"
+  },
+  {
+    "theWord": "virtually",
+    "wTranslation": "პრაქტიკულად"
+  },
+  {
+    "theWord": "vision",
+    "wTranslation": "მხედველობა"
+  },
+  {
+    "theWord": "visionary",
+    "wTranslation": "ხედული"
+  },
+  {
+    "theWord": "voluntarily",
+    "wTranslation": "ნებაყოფლობით"
+  },
+  {
+    "theWord": "voluntary",
+    "wTranslation": "ნებაყოფლობითი"
+  },
+  {
+    "theWord": "wagons",
+    "wTranslation": "ვაგონები"
+  },
+  {
+    "theWord": "waiters",
+    "wTranslation": "მიმტანები"
+  },
+  {
+    "theWord": "walk",
+    "wTranslation": "სიარული"
+  },
+  {
+    "theWord": "want",
+    "wTranslation": "გაჭირვება"
+  },
+  {
+    "theWord": "wanted",
+    "wTranslation": "სურდა"
+  },
+  {
+    "theWord": "was",
+    "wTranslation": "იყო"
+  },
+  {
+    "theWord": "watch",
+    "wTranslation": "უყურებს"
+  },
+  {
+    "theWord": "wave",
+    "wTranslation": "ტალღა"
+  },
+  {
+    "theWord": "way",
+    "wTranslation": "გზა"
+  },
+  {
+    "theWord": "ways",
+    "wTranslation": "გზები"
+  },
+  {
+    "theWord": "we",
+    "wTranslation": "ჩვენ"
+  },
+  {
+    "theWord": "we'll",
+    "wTranslation": "ჩვენ"
+  },
+  {
+    "theWord": "we're",
+    "wTranslation": "ჩვენ"
+  },
+  {
+    "theWord": "we've",
+    "wTranslation": "ჩვენ"
+  },
+  {
+    "theWord": "wednesday",
+    "wTranslation": "ოთხშაბათი"
+  },
+  {
+    "theWord": "week",
+    "wTranslation": "კვირა"
+  },
+  {
+    "theWord": "well",
+    "wTranslation": "კარგად"
+  },
+  {
+    "theWord": "went",
+    "wTranslation": "წავიდა"
+  },
+  {
+    "theWord": "were",
+    "wTranslation": "იყო"
+  },
+  {
+    "theWord": "what",
+    "wTranslation": "რა"
+  },
+  {
+    "theWord": "what's",
+    "wTranslation": "რა არის"
+  },
+  {
+    "theWord": "when",
+    "wTranslation": "როდესაც"
+  },
+  {
+    "theWord": "where",
+    "wTranslation": "სად"
+  },
+  {
+    "theWord": "whereas",
+    "wTranslation": "ხოლო"
+  },
+  {
+    "theWord": "whether",
+    "wTranslation": "თუ"
+  },
+  {
+    "theWord": "which",
+    "wTranslation": "რომელი"
+  },
+  {
+    "theWord": "who",
+    "wTranslation": "ჯანმო"
+  },
+  {
+    "theWord": "who's",
+    "wTranslation": "ვინ არის"
+  },
+  {
+    "theWord": "whole",
+    "wTranslation": "მთელი"
+  },
+  {
+    "theWord": "why",
+    "wTranslation": "რატომ"
+  },
+  {
+    "theWord": "wife",
+    "wTranslation": "ცოლი"
+  },
+  {
+    "theWord": "will",
+    "wTranslation": "ანდერძი"
+  },
+  {
+    "theWord": "willing",
+    "wTranslation": "მოსურნე"
+  },
+  {
+    "theWord": "wins",
+    "wTranslation": "მოგება"
+  },
+  {
+    "theWord": "wisdom",
+    "wTranslation": "სიბრძნე"
+  },
+  {
+    "theWord": "with",
+    "wTranslation": "-ით"
+  },
+  {
+    "theWord": "without",
+    "wTranslation": "გარეშე"
+  },
+  {
+    "theWord": "woke",
+    "wTranslation": "გაიღვიძა"
+  },
+  {
+    "theWord": "won",
+    "wTranslation": "მოიგო"
+  },
+  {
+    "theWord": "won't",
+    "wTranslation": "არა"
+  },
+  {
+    "theWord": "words",
+    "wTranslation": "სიტყვები"
+  },
+  {
+    "theWord": "work",
+    "wTranslation": "სამუშაო"
+  },
+  {
+    "theWord": "works",
+    "wTranslation": "ნამუშევრები"
+  },
+  {
+    "theWord": "world",
+    "wTranslation": "სამყარო"
+  },
+  {
+    "theWord": "would",
+    "wTranslation": "სურდებოდა"
+  },
+  {
+    "theWord": "wouldn't",
+    "wTranslation": "არა"
+  },
+  {
+    "theWord": "written",
+    "wTranslation": "დაწერილი"
+  },
+  {
+    "theWord": "wrong",
+    "wTranslation": "მცდარი"
+  },
+  {
+    "theWord": "yeah",
+    "wTranslation": "ჰო"
+  },
+  {
+    "theWord": "years",
+    "wTranslation": "წლები"
+  },
+  {
+    "theWord": "yes",
+    "wTranslation": "დიახ"
+  },
+  {
+    "theWord": "you",
+    "wTranslation": "შენ"
+  },
+  {
+    "theWord": "you'll",
+    "wTranslation": "შენ"
+  },
+  {
+    "theWord": "you're",
+    "wTranslation": "შენ ხარ"
+  },
+  {
+    "theWord": "you've",
+    "wTranslation": "თქვენ"
+  },
+  {
+    "theWord": "young",
+    "wTranslation": "ახალგაზრდა"
+  },
+  {
+    "theWord": "your",
+    "wTranslation": "შენი"
+  },
+  {
+    "theWord": "yourself",
+    "wTranslation": "შენ თვითონ"
+  },
+  {
+    "theWord": "zero",
+    "wTranslation": "ნული"
+  }
 ]

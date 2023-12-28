@@ -2,7 +2,7 @@ import { Outlet, Link } from "react-router-dom";
 import "./Videos.scss";
 // import Header from "../components/Header";
 // import Footer from "../components/Footer";
-import transcripts from "../../scriptsData/videoTranscripts.json";
+import transcripts from "../../data/scriptsData/videoTranscripts.json";
 import VideoItem from "../../components/videoItem/VideoItem";
 
 export default function Videos() {

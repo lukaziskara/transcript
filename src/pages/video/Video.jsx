@@ -3,11 +3,11 @@ import { Link, useParams } from "react-router-dom";
 import "./Video.scss";
 // import YoutubeTranscript from "youtube-transcript";
 
-import lexicon from "../../scriptsData/lexicon.json";
-import transcripts from "../../scriptsData/videoTranscripts.json";
+import lexicon from "../../data/scriptsData/lexicon.json";
+import transcripts from "../../data/scriptsData/videoTranscripts.json";
 
 import Game from "../../components/Game";
-import YouTube from "react-youtube";
+// import YouTube from "react-youtube";
 
 export default function Video(props) {
   const [startTime, setStartTime] = useState(0);
@@ -140,7 +140,7 @@ export default function Video(props) {
                 setIsStarted(!isStarted);
               }}
             >
-              დაწყება
+              {isStarted?"თამაშის გატანა":"თამაშის გამოტანა"}
             </button>
           </div>
         </div>
@@ -149,16 +149,37 @@ export default function Video(props) {
       <div className="video-palyer">
         {/* <video controls="true"> */}
         {/* <YouTube src="ZG9F22nBKFY13Pfk" /> */}
+        {/* <video controls>
+          <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.720p.vp9.webm" type="video/webm" />
+        </video> */}
         <iframe
-          width="891"
-          height="501"
+          // width="1600"
+          // height="900"
           src={videoUrl}
           // src="https://www.youtube.com/embed/zOBzNmM9ylw"
           // title='#12 Walter Block   -  Author of "Defending The Undefendable", Loyola University Professor'
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen
+          allowfullscreen="true"
         ></iframe>
+        {/* <iframe
+          width="560"
+          height="315"
+          src="https://recorder.google.com/f29b6aef-bf8b-40e8-80f6-45cd03d39453"
+          title="test"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen="true"
+        ></iframe> */}
+        {/* <iframe
+          // width="560"
+          // height="315"
+          src="https://www.youtube.com/embed/videoseries?si=hRrftixHfF7WjGEx&amp;list=PLQZmtHjTgPB9w4ZGPhDZ--CaCEMGv4rAb"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen="true"
+        ></iframe> */}
         {/* <source src={videoUrl} type="video/mp4" /> */}
         {/* </video> */}
       </div>

@@ -1,11 +1,42 @@
+import dataAbout from "../data/aboutData/aboutVideos.json";
+
 export default function AboutGame() {
+  console.log(dataAbout);
   return (
     <div className="about">
-      <div className="about_part">
-        <h1>თამაშის შესახებ</h1>
+      <div className="">
+        {dataAbout.map((data,index) => (
+          <div className="about_part">
+            <div className="header">
+              {data.h1 ? (
+                <h1>{data.h1}</h1>
+              ) : data.h2 ? (
+                <h2>{data.h2}</h2>
+              ) : data.h3 ? (
+                <h3>{data.h3}</h3>
+              ) : null}
+            </div>
+            {/* <img src="public/about-idea/about-idea-1.jpg" alt="" /> */}
+            {/* <img src="1.jpg" alt="" />
+            <img src="photos_about/2.png" alt="" />
+            <img src="photos_about/1.jpg" alt="" />
+            <img src="about_idea/1.jpg" alt="" /> */}
+            <div className="">
+              <img src={data.pic} alt="" />
+              {/* <img src={data.pic} alt="" /> */}
+            </div>
+            <div className="">
+              <p>{data.p}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+      {/* <div className="about_part">
+        <h1>თამაშის შესახებdwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</h1>
         <p>
-          ეს თუშური ენის სასწავლი თამაშია, რომელიც რამდენიმე ეტაპადაა დაყოფილი.
-          სათამაშოდ მოგიწევთ სიტყვების მნიშვნელობის გამოცნობა, წინადადებების
+          ეს ინგლისური ენის სასწავლი თამაშია, რომელიც რამდენიმე ეტაპადაა
+          დაყოფილი. სათამაშოდ სიტყვების მნიშვნელობის გამოცნობა მოგიწევთ.
+          , წინადადებების
           შედგენა და სასვენი ნიშნების დასმა. თამაშში არსებული ეტაპების გავლა
           შესაძლებელია როგორც ცალ-ცალკე, ასევე მიმდევრობით. Ეტაპების ცალკე
           გასავლელად დააჭირეთ ზემოთ მარჯვენა კუთხეში განლაგებულ შესაბამის
@@ -19,8 +50,7 @@ export default function AboutGame() {
           უნდა აირჩიოთ თამაშის სირთულე ღილაკებზე დაჭერით. Ნაწილს აწერია
           “მარტივი”, ნაწილს - “რთული”. Ქვემოთ გამოსახულია ბარათების ნიმუშები იმ
           ფორმით, რომლითაც პირველ თამაშში შეგხვდებათ. თამაშის დასაწყებად უნდა
-          დააჭიროთ ღილაკს "დაწყება". Მომდევნო ეტაპებზე განსხვავებული სირთულეები
-          ჯერ არაა.
+          დააჭიროთ ღილაკს "დაწყება".
         </p>
       </div>
       <div className="about_part">
@@ -77,8 +107,8 @@ export default function AboutGame() {
         <p>
           ზემოთ მოცემულია სურათი, რომლის შესაბამისი წინადადება ქვემოთ
           შემთხვევითად გაფანტული სიტყვებით უნდა შეადგინოთ. შედგენის შემდეგ უნდა
-          გადახვიდეთ შემდეგ სურათზე. სურათების ამოწურვის შემდეგ
-          შემდეგ ეტაპზე გადასასვლელი ღილაკი გამოჩნდება.
+          გადახვიდეთ შემდეგ სურათზე. სურათების ამოწურვის შემდეგ შემდეგ ეტაპზე
+          გადასასვლელი ღილაკი გამოჩნდება.
         </p>
       </div>
       <div className="about_part">
@@ -88,7 +118,7 @@ export default function AboutGame() {
           Აქ ბოლო ეტაპის(ახლა სურათის აღწერაა ასეთი) გავლის შემდეგ მიღებული
           შედეგები და წინადედაბები, მათ თარგმანებთან ერთად გამოჩნდება.
         </p>
-      </div>
+      </div> */}
     </div>
   );
 }
