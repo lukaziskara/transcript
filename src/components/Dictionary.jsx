@@ -90,7 +90,7 @@ export default function Dictionary(props) {
             </div>
           ))}
           <div className={isFixedVisible ? "fixed-won-word" : "hidden"}>
-            {wonWord[0].wTranslation}-{wonWord[0].theWord}
+            {wonWord[0].wTranslation} - {wonWord[0].theWord}
           </div>
         </div>
         <div className="b_words flex_wrap">
