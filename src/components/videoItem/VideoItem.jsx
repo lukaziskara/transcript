@@ -4,7 +4,7 @@ export default function VideoItem(props) {
   const { title, videoUrl, id } = props.item;
   console.log(props);
   return (
-    <Link to={`/video/${id}`} className="link">
+    <Link to={`/videos/${id}`} className="link">
       <div className="video-item">
         <h1>{title}</h1>
       </div>
